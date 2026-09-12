@@ -1,0 +1,1753 @@
+{
+ "manifest": {
+  "name": "Conjure UCG",
+  "format": 2,
+  "cardCount": 40,
+  "keywordCount": 0,
+  "lookSlots": 0,
+  "markCount": 0,
+  "artBase": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/"
+ },
+ "cards": [
+  {
+   "name": "Yune Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "blue"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Yune"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1632.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-29",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1632.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1637.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1639.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1640.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1642.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1643.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1644.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1647.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1648.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1649.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90zz341w"
+  },
+  {
+   "name": "Vig Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "orange"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Vig"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1591.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-29",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1591.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1638.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1641.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1646.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1645.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1650.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1652.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1653.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1654.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1655.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90z43pjd"
+  },
+  {
+   "name": "Ire Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "red"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Ire"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1651.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-29",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1651.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1656.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1657.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1665.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1659.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1660.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1658.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1662.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1663.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1664.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90z0ud3s"
+  },
+  {
+   "name": "Arch Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "green"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Arch"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1661.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-30",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1661.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1678.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1666.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1668.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1669.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1670.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1671.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1672.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1676.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1680.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90zlkdmp"
+  },
+  {
+   "name": "Lux Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "yellow"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Lux"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1685.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-29",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1685.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1686.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1674.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1675.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1677.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1679.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1681.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1682.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1684.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1683.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90zkvew8"
+  },
+  {
+   "name": "Psy Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "indigo"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Psy"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1693.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-29",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1693.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1700.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1694.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1695.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1690.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1691.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1692.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1696.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1699.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1698.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90zw97ma"
+  },
+  {
+   "name": "Gris Essence",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "violet"
+   ],
+   "superTypes": [
+    "Core",
+    "Essence"
+   ],
+   "subTypes": [
+    "Gris"
+   ],
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
+   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1688.webp",
+   "art": "",
+   "saga": "Core Essence",
+   "revision": "Rev 1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "lastUpdated": "2026-03-29",
+   "variants": [
+    {
+     "id": "v1",
+     "label": "Default",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1688.webp"
+    },
+    {
+     "id": "v2",
+     "label": "Art 2",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1673.webp"
+    },
+    {
+     "id": "v3",
+     "label": "Art 3",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1687.webp"
+    },
+    {
+     "id": "v4",
+     "label": "Art 4",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1689.webp"
+    },
+    {
+     "id": "v5",
+     "label": "Art 5",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1667.webp"
+    },
+    {
+     "id": "v6",
+     "label": "Art 6",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1702.webp"
+    },
+    {
+     "id": "v7",
+     "label": "Art 7",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1703.webp"
+    },
+    {
+     "id": "v8",
+     "label": "Art 8",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1704.webp"
+    },
+    {
+     "id": "v9",
+     "label": "Art 9",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1697.webp"
+    },
+    {
+     "id": "v10",
+     "label": "Art 10",
+     "art": "",
+     "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1707.webp"
+    }
+   ],
+   "variant": "v1",
+   "sagaId": "Core Essence",
+   "id": "cmtypd90zq049f"
+  },
+  {
+   "id": "cmtypd90xorf9h",
+   "name": "Maw",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Once per Battle you may Consume a Consumable to recover 2x MP or 3x HP equal to its AP cost.\n\nFor each Battle you do not, lose 2 Max MP and 3 Max HP until your next Long Recovery.\n\n<i>You must eat...</i>",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90x741io",
+   "name": "Carving Knife",
+   "manaCost": "V/R",
+   "cmc": "2",
+   "colors": [
+    "Red",
+    "Violet",
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Rouge",
+    "Knife"
+   ],
+   "attack": "ATK",
+   "health": "",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Main Hand\nWhenever you kill a Character, you gain a free attack.\n\nOff Hand\n+1 ATK",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90x4r54n",
+   "name": "Lineman's Pike",
+   "manaCost": "R/O1",
+   "cmc": "3",
+   "colors": [
+    "Red",
+    "Orange",
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Soldier",
+    "Spear"
+   ],
+   "attack": "ATK",
+   "health": "",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Main-Hand\n+1 Melee Rg\n\nOff-Hand\n+1 ATK",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90x2zaa5",
+   "name": "Magus Staff",
+   "manaCost": "BB1",
+   "cmc": "3",
+   "colors": [
+    "Blue",
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Focus"
+   ],
+   "attack": "2",
+   "health": "",
+   "arcane": "25",
+   "range": "6",
+   "ruleText": "Main-Hand\nDefault attack costs 10 MP.\n\nOff-Hand\n+1 Rg to Spells you cast.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90xoq8ca",
+   "name": "Bastard Sword",
+   "manaCost": "R1",
+   "cmc": "2",
+   "colors": [
+    "Red",
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Warrior",
+    "Sword"
+   ],
+   "attack": "ATK",
+   "health": "",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Main-Hand\n+2 ATK\n\nOff-Hand\nOnce per Battle, you may use a free Default attack at Quick speed.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90xjyiag",
+   "name": "New Card 2",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Druid",
+    "Plant",
+    "Focus"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90x0lpuy",
+   "name": "Sojourner's Staff",
+   "manaCost": "G2",
+   "cmc": "3",
+   "colors": [
+    "Green",
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Bard",
+    "Druid",
+    "Focus"
+   ],
+   "attack": "ATK",
+   "health": "",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Main-Hand\nQuick - 15 MP: Another target Character gains +1 ATK or +1 Move this turn.\n\nOff-Hand\nSlow - 10 MP: Another target Character gains +1 Move this round.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90xx0oqo",
+   "name": "Fohh-Clan Wardrums",
+   "manaCost": "R2",
+   "cmc": "3",
+   "colors": [
+    "Red",
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Warrior",
+    "Instrument"
+   ],
+   "attack": "2",
+   "health": "",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Two-Handed\n\nQuick, 10 Rg - {R}{R}{2}: Another target Character gains {R} AP during their next turn.\n\nSlow, 6 Rg - {R}{1}: Another target Character gains {1} AP this turn.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yfkhf0",
+   "name": "Temperate Casting",
+   "manaCost": "BB1",
+   "cmc": "3",
+   "colors": [
+    "Blue"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Wizard",
+    "Aqua",
+    "Cryo"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Whenever you play an Aqua or Cryo Spell, the next Aqua or Cryo Spell of the other type you cast this turn with MP cost less than the card you played, costs 0 MP to cast.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yzfoh8",
+   "name": "Weaver",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You gain +1 Move.\n\nWhenever a Character dies within Eyesight, you lose {1} AP during your next turn.\n\n<i>You see the dead...</i>",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90ybjqup",
+   "name": "Seabound",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "The first Spell you play each turn costs LVL MP less to play.\n\nYou swim at 1/2 speed instead of 1/3.\n\nYou can't cast Spells with MP cost greater than 5x your LVL.\n\n<i>You are bound to the sea's bounty...</i>",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yzqp58",
+   "name": "Stout",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You gain 2x MP per LVL allotment.\n\nYou can only cast 1 Spell from your Hand a round, and use 1 Ongoing Spell at a time.\n\nYou Swim at 1sq per Movement, instead of 1/3 speed.\n\n<i>Your body holds mana like a metal cage...</i>",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yks9sa",
+   "name": "Giant",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may use Two-Handed Armament as if they were Single-Handed.\n\nAny noise you make is increased by +1 Noise Level.\n\n<i>Walking like a risen Old God...</i>",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yt0a5t",
+   "name": "Vagabond",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "At the start of each round, if you are not next to a Character, you gain +1 Move this round.\n\nAt the start of each round, if you are next to a Character, you gain -1 Move this round.",
+   "flavor": "\"Wandering in search of a home you're never fit for.\"",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90y2106y",
+   "name": "Clerical Devotion",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Whenever you Heal a Character, Heal an additional LVL HP.\n\nYou can't use the Default attack ability.\n\nYou can't play cards that deal damage.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yqikim",
+   "name": "Plant Wildlife",
+   "manaCost": "G",
+   "cmc": "1",
+   "colors": [
+    "Green"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Action"
+   ],
+   "subTypes": [
+    "Wild",
+    "Plant",
+    "Druid"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Plant Characters.\n\nYou may use Plant Characters as Companions.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yblubt",
+   "name": "Animal Wildlife",
+   "manaCost": "G",
+   "cmc": "1",
+   "colors": [
+    "green"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Action"
+   ],
+   "subTypes": [
+    "Wild",
+    "Beast",
+    "Druid"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Beast Characters.\n\nYou may use Beast Characters as Companions.",
+   "flavor": "",
+   "saga": "Test",
+   "sagaId": "Test",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ]
+  },
+  {
+   "id": "cmtypd90yzcpdp",
+   "name": "Artificer's Toolbox",
+   "manaCost": "O",
+   "cmc": "1",
+   "colors": [
+    "Orange"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Action"
+   ],
+   "subTypes": [
+    "Construct",
+    "Artificer"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Construct Characters.\n\nYou may use Construct Characters as Companions.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90y02cfs",
+   "name": "Control Undead",
+   "manaCost": "V",
+   "cmc": "1",
+   "colors": [
+    "Violet"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Necro",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Undead Characters.\n\nYou may use Undead Characters as Companions.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yl0jgf",
+   "name": "Control Elementals",
+   "manaCost": "BR",
+   "cmc": "2",
+   "colors": [
+    "Red",
+    "Blue"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Elemental",
+    "Wizard"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Elemental Characters.\n\nYou may use Elemental Characters as Companions.\n\nCompanions you control gain 5x your LVL MP.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90y6hd9u",
+   "name": "Grizzly Bear",
+   "manaCost": "GG1",
+   "cmc": "3",
+   "colors": [
+    "Green"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [
+    "Wild",
+    "Clawed",
+    "Beast"
+   ],
+   "attack": "1",
+   "health": "25",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "The first time this Character attacks another Character each round, it performs an additional attack on the same Character.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90y7s10d",
+   "name": "Magpie",
+   "manaCost": "G",
+   "cmc": "1",
+   "colors": [
+    "Green"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [
+    "Wild",
+    "Winged",
+    "Beast"
+   ],
+   "attack": "1",
+   "health": "5",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Each Onset - This card becomes Airborne.\nWhenever this card attacks while Airborne, it loses Airborne.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yjv5oa",
+   "name": "Direwolf",
+   "manaCost": "GV/R1",
+   "cmc": "4",
+   "colors": [
+    "Red",
+    "Green",
+    "Violet"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [
+    "Wild",
+    "Fanged",
+    "Beast"
+   ],
+   "attack": "2",
+   "health": "35",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Whenever this Character deals damage, it gains +1 Move this round.\n\nThe first time this card deals damage to another Character each Battle, instead it deals double that much damage.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yo2ydn",
+   "name": "Auric Belief",
+   "manaCost": "Y",
+   "cmc": "1",
+   "colors": [
+    "Yellow"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Cleic"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Spells cost {1} more to target you.\n\nSlow, 4 Rg - {1}: Move this card to another Character until the end of Battle.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yih2ui",
+   "name": "Menaj: Wolf",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "The first time you perform a Default attack each Battle, instead deal double that much damage instead.\n\nThe first time you damage an enemy Character each Battle, you can't attack any other Characters until that first Character has died.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90ygy45u",
+   "name": "_Default Race",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "",
+   "flavor": "",
+   "saga": "Test",
+   "sagaId": "Test",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90ygerkr",
+   "name": "Menaj: Bird",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Weaver</i>\n\nAs long as you are Airborne, you gain +1 Move.\n\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90y18vyw",
+   "name": "Menaj: Fish",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Seabound</i>\n\nYou move your Movement while Swimming.\n\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Movement.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90ypy1ou",
+   "name": "Menaj: Amphibian",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Maw</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\n\nIf you didn't Heal during a Battle, lose LVL HP.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yeqd2g",
+   "name": "Menaj: Reptile",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Stout</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\n\nWhenever you cast a Spell, you lose -1 Move this round.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yz2rvh",
+   "name": "Iron Torch Sconce",
+   "manaCost": "1",
+   "cmc": "1",
+   "colors": [
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Pyro",
+    "Mace"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Single-Handed\n\nQuick - {2}: Roll D4, you gain +X Lightsource for X turns, where X is the result if the Dice roll.\n\nSlow - {R}: You gain +D4 ATK until the next time you deal damage this Battle. This ability does not stack, but higher rolls replace lower rolls.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90y9yet0",
+   "name": "Vacturn",
+   "manaCost": "1",
+   "cmc": "1",
+   "colors": [
+    "Grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Void",
+    "Relic"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Accessory\n\nYou gain +5 max MP.\n\nSlow - {Y}{V}{I}{3}, X MP, Lose your next turn: Kill each other Character in X Rg. Only use this ability once.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  },
+  {
+   "id": "cmtypd90yteyqa",
+   "name": "Paragon of the Paladin",
+   "manaCost": "OOYY2",
+   "cmc": "6",
+   "colors": [
+    "Orange",
+    "Yellow"
+   ],
+   "superTypes": [
+    "Action",
+    "Spell"
+   ],
+   "subTypes": [
+    "Cleric",
+    "Soldier"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Unique\nYou gain 100 {Y} this turn, you may reveal any number of cards from your Deck. You may play those cards this turn.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": ""
+  }
+ ],
+ "look": null,
+ "marks": null
+}

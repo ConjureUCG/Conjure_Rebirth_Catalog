@@ -1,0 +1,26 @@
+[
+ {
+  "id": "Core Essence",
+  "name": "Core Essence",
+  "author": "",
+  "version": "1.0",
+  "description": "",
+  "cardCount": 7
+ },
+ {
+  "id": "Imported",
+  "name": "Imported",
+  "author": "",
+  "version": "1.0",
+  "description": "",
+  "cardCount": 31
+ },
+ {
+  "id": "Test",
+  "name": "Test",
+  "author": "",
+  "version": "1.0",
+  "description": "",
+  "cardCount": 2
+ }
+]

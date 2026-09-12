@@ -1,0 +1,66 @@
+{
+ "format": 1,
+ "look": {
+  "slots": {},
+  "edgeMode": "gradient",
+  "pinMode": "gradient",
+  "tplDefaults": {
+   "h": {
+    "fit": "contain",
+    "xf": {
+     "z": 1,
+     "x": 0,
+     "y": 0,
+     "r": 0,
+     "f": 1
+    }
+   },
+   "v": {
+    "fit": "contain",
+    "xf": {
+     "z": 1,
+     "x": 0,
+     "y": 0,
+     "r": 0,
+     "f": 1
+    }
+   }
+  },
+  "bleed": false,
+  "align": [
+   {
+    "key": "character",
+    "kind": "super",
+    "h": "left",
+    "v": "top"
+   },
+   {
+    "key": "essence",
+    "kind": "super",
+    "h": "center",
+    "v": "middle"
+   },
+   {
+    "key": "object",
+    "kind": "super",
+    "h": "center",
+    "v": "top"
+   },
+   {
+    "key": "action",
+    "kind": "super",
+    "h": "center",
+    "v": "middle"
+   }
+  ],
+  "alignBase": {
+   "h": "left",
+   "v": "top"
+  },
+  "kwStyles": {},
+  "pillsOn": true,
+  "kwCustom": [],
+  "format": 1
+ },
+ "marks": []
+}

@@ -1,0 +1,9 @@
+{
+ "name": "Conjure UCG",
+ "format": 2,
+ "cardCount": 40,
+ "keywordCount": 0,
+ "lookSlots": 0,
+ "markCount": 0,
+ "artBase": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/"
+}
