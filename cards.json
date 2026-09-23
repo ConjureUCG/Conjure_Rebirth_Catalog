@@ -52,7 +52,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-29",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -117,7 +117,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90zz341w"
+   "id": "cmudc8aghf08j6"
   },
   {
    "name": "Vig Essence",
@@ -162,7 +162,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-29",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -227,7 +227,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90z43pjd"
+   "id": "cmudc8aghlvcol"
   },
   {
    "name": "Ire Essence",
@@ -272,7 +272,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-29",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -337,7 +337,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90z0ud3s"
+   "id": "cmudc8aghm93ij"
   },
   {
    "name": "Arch Essence",
@@ -382,7 +382,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-30",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -447,7 +447,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90zlkdmp"
+   "id": "cmudc8aghiloxi"
   },
   {
    "name": "Lux Essence",
@@ -492,7 +492,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-29",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -557,7 +557,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90zkvew8"
+   "id": "cmudc8agh4inb9"
   },
   {
    "name": "Psy Essence",
@@ -602,7 +602,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-29",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -667,7 +667,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90zw97ma"
+   "id": "cmudc8aghmbgps"
   },
   {
    "name": "Gris Essence",
@@ -712,7 +712,7 @@
    "revision": "Rev 1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
-   "lastUpdated": "2026-03-29",
+   "lastUpdated": "2026-09-23",
    "variants": [
     {
      "id": "v1",
@@ -777,7 +777,7 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmtypd90zq049f"
+   "id": "cmudc8agh5ost1"
   },
   {
    "id": "cmtypd90xorf9h",
@@ -803,17 +803,37 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90x741io",
    "name": "Carving Knife",
    "manaCost": "V/R",
-   "cmc": "2",
+   "cmc": "1",
    "colors": [
-    "Red",
-    "Violet",
-    "Grey"
+    "red",
+    "violet",
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -834,17 +854,56 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "ATK"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23",
+   "rulesSplit": 2,
+   "sections": [
+    {
+     "text": "Main Hand\nWhenever you kill a Character, you gain a free attack.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "Off Hand\n+1 ATK",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "splitChoice": true,
+   "choiceText": "Single-Handed"
   },
   {
    "id": "cmtypd90x4r54n",
    "name": "Lineman's Pike",
    "manaCost": "R/O1",
-   "cmc": "3",
+   "cmc": "2",
    "colors": [
-    "Red",
-    "Orange",
-    "Grey"
+    "red",
+    "orange",
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -866,7 +925,46 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "ATK"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23",
+   "rulesSplit": 2,
+   "sections": [
+    {
+     "text": "Main-Hand\n+1 Melee Rg",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "Off-Hand\n+1 ATK",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "splitChoice": true,
+   "choiceText": "Dual-Wieldable"
   },
   {
    "id": "cmtypd90x2zaa5",
@@ -874,8 +972,8 @@
    "manaCost": "BB1",
    "cmc": "3",
    "colors": [
-    "Blue",
-    "Grey"
+    "blue",
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -896,7 +994,45 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "2"
+    },
+    {
+     "type": "range",
+     "value": "6"
+    },
+    {
+     "type": "arcane",
+     "value": "25"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23",
+   "rulesSplit": 2,
+   "sections": [
+    {
+     "text": "Main-Hand\nDefault attack costs 10 MP.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "Off-Hand\n+1 Rg to Spells you cast.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "splitChoice": true
   },
   {
    "id": "cmtypd90xoq8ca",
@@ -904,8 +1040,8 @@
    "manaCost": "R1",
    "cmc": "2",
    "colors": [
-    "Red",
-    "Grey"
+    "red",
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -927,7 +1063,46 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "ATK"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23",
+   "sections": [
+    {
+     "text": "Main-Hand\n+2 ATK",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "Off-Hand\nOnce per Battle, you may use a free Default attack at Quick speed.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "rulesSplit": 2,
+   "splitChoice": true,
+   "choiceText": "Dual-Wieldable"
   },
   {
    "id": "cmtypd90xjyiag",
@@ -935,7 +1110,7 @@
    "manaCost": "",
    "cmc": "",
    "colors": [
-    "Grey"
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -958,7 +1133,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90x0lpuy",
@@ -966,8 +1161,8 @@
    "manaCost": "G2",
    "cmc": "3",
    "colors": [
-    "Green",
-    "Grey"
+    "green",
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -990,7 +1185,45 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "ATK"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23",
+   "rulesSplit": 2,
+   "sections": [
+    {
+     "text": "Main-Hand\nQuick - 15 MP: Another target Character gains +1 ATK or +1 Move this turn.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "Off-Hand\nSlow - 10 MP: Another target Character gains +1 Move this round.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "splitChoice": true
   },
   {
    "id": "cmtypd90xx0oqo",
@@ -998,8 +1231,8 @@
    "manaCost": "R2",
    "cmc": "3",
    "colors": [
-    "Red",
-    "Grey"
+    "red",
+    "grey"
    ],
    "superTypes": [
     "Object"
@@ -1021,7 +1254,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "2"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yfkhf0",
@@ -1029,7 +1282,7 @@
    "manaCost": "BB1",
    "cmc": "3",
    "colors": [
-    "Blue"
+    "blue"
    ],
    "superTypes": [
     "Ongoing",
@@ -1052,7 +1305,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yzfoh8",
@@ -1078,7 +1351,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90ybjqup",
@@ -1104,7 +1397,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yzqp58",
@@ -1130,7 +1443,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yks9sa",
@@ -1156,7 +1489,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yt0a5t",
@@ -1172,15 +1525,35 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "At the start of each round, if you are not next to a Character, you gain +1 Move this round.\n\nAt the start of each round, if you are next to a Character, you gain -1 Move this round.",
-   "flavor": "\"Wandering in search of a home you're never fit for.\"",
+   "ruleText": "At the start of each round, if you are not next to a Character, you gain +1 Move this round.\n\nAt the start of each round, if you are next to a Character, you gain -1 Move this round.\n\n<i>\"Wandering in search of a home you're never fit for. Homesick for a place that never existed.\"</i>",
+   "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
    "revision": "",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90y2106y",
@@ -1206,7 +1579,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yqikim",
@@ -1214,7 +1607,7 @@
    "manaCost": "G",
    "cmc": "1",
    "colors": [
-    "Green"
+    "green"
    ],
    "superTypes": [
     "Ongoing",
@@ -1237,7 +1630,753 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-09-23",
+   "frame": "vr"
+  },
+  {
+   "id": "cmtypd90yzcpdp",
+   "name": "Artificer's Toolbox",
+   "manaCost": "O",
+   "cmc": "1",
+   "colors": [
+    "orange"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Action"
+   ],
+   "subTypes": [
+    "Construct",
+    "Artificer"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Construct Characters.\n\nYou may use Construct Characters as Companions.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90y02cfs",
+   "name": "Control Undead",
+   "manaCost": "V",
+   "cmc": "1",
+   "colors": [
+    "violet"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Necro",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Undead Characters.\n\nYou may use Undead Characters as Companions.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90yl0jgf",
+   "name": "Control Elementals",
+   "manaCost": "BR",
+   "cmc": "2",
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Elemental",
+    "Wizard"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You may make Handling Checks against Elemental Characters.\n\nYou may use Elemental Characters as Companions.\n\nCompanions you control gain 5x your LVL MP.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90y6hd9u",
+   "name": "Grizzly Bear",
+   "manaCost": "GG1",
+   "cmc": "3",
+   "colors": [
+    "green"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [
+    "Wild",
+    "Clawed",
+    "Beast"
+   ],
+   "attack": "1",
+   "health": "25",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "The first time this Character attacks another Character each round, it performs an additional attack on the same Character.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "1"
+    },
+    {
+     "type": "health",
+     "value": "25"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ]
+  },
+  {
+   "id": "cmtypd90y7s10d",
+   "name": "Magpie",
+   "manaCost": "G",
+   "cmc": "1",
+   "colors": [
+    "green"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [
+    "Wild",
+    "Winged",
+    "Beast"
+   ],
+   "attack": "1",
+   "health": "5",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Each Onset - This card becomes Airborne.\nWhenever this card attacks while Airborne, it loses Airborne.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "1"
+    },
+    {
+     "type": "health",
+     "value": "5"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ]
+  },
+  {
+   "id": "cmtypd90yjv5oa",
+   "name": "Direwolf",
+   "manaCost": "GV/R1",
+   "cmc": "3",
+   "colors": [
+    "red",
+    "green",
+    "violet"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [
+    "Wild",
+    "Fanged",
+    "Beast"
+   ],
+   "attack": "2",
+   "health": "35",
+   "arcane": "",
+   "range": "M",
+   "ruleText": "Whenever this Character deals damage, it gains +1 Move this round.\n\nThe first time this card deals damage to another Character each Battle, instead it deals double that much damage.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "2"
+    },
+    {
+     "type": "health",
+     "value": "35"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ]
+  },
+  {
+   "id": "cmtypd90yo2ydn",
+   "name": "Auric Belief",
+   "manaCost": "Y",
+   "cmc": "1",
+   "colors": [
+    "yellow"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Cleic"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Spells cost {1} more to target you.\n\nSlow, 4 Rg - {1}: Move this card to another Character until the end of Battle.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90yih2ui",
+   "name": "Menaj: Wolf",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "The first time you perform a Default attack each Battle, instead deal double that much damage instead.\n\nThe first time you damage an enemy Character each Battle, you can't attack any other Characters until that first Character has died.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90ygerkr",
+   "name": "Menaj: Bird",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Weaver</i>\n\nAs long as you are Airborne, you gain +1 Move.\n\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90y18vyw",
+   "name": "Menaj: Fish",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Seabound</i>\n\nYou move your Movement while Swimming.\n\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Movement.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90ypy1ou",
+   "name": "Menaj: Amphibian",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Maw</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\n\nIf you didn't Heal during a Battle, lose LVL HP.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90yeqd2g",
+   "name": "Menaj: Reptile",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: Stout</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\n\nWhenever you cast a Spell, you lose -1 Move this round.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90yz2rvh",
+   "name": "Iron Torch Sconce",
+   "manaCost": "1",
+   "cmc": "1",
+   "colors": [
+    "grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Pyro",
+    "Mace"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Single-Handed\n\nQuick - {2}: Roll D4, you gain +X Lightsource for X turns, where X is the result if the Dice roll.\n\nSlow - {R}: You gain +D4 ATK until the next time you deal damage this Battle. This ability does not stack, but higher rolls replace lower rolls.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90y9yet0",
+   "name": "Vacturn",
+   "manaCost": "1",
+   "cmc": "1",
+   "colors": [
+    "grey"
+   ],
+   "superTypes": [
+    "Object"
+   ],
+   "subTypes": [
+    "Armament",
+    "Void",
+    "Relic"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Accessory\n\nYou gain +5 max MP.\n\nSlow - {Y}{V}{I}{3}, X MP, Lose your next turn: Kill each other Character in X Rg. Only use this ability once.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
+  },
+  {
+   "id": "cmtypd90yteyqa",
+   "name": "Paragon of the Paladin",
+   "manaCost": "OOYY2",
+   "cmc": "6",
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "superTypes": [
+    "Action",
+    "Spell"
+   ],
+   "subTypes": [
+    "Cleric",
+    "Soldier"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Unique\nYou gain 100 {Y} this turn, you may reveal any number of cards from your Deck. You may play those cards this turn.",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90yblubt",
@@ -1286,245 +2425,9 @@
      "type": "hidden",
      "value": ""
     }
-   ]
-  },
-  {
-   "id": "cmtypd90yzcpdp",
-   "name": "Artificer's Toolbox",
-   "manaCost": "O",
-   "cmc": "1",
-   "colors": [
-    "Orange"
    ],
-   "superTypes": [
-    "Ongoing",
-    "Action"
-   ],
-   "subTypes": [
-    "Construct",
-    "Artificer"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "You may make Handling Checks against Construct Characters.\n\nYou may use Construct Characters as Companions.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90y02cfs",
-   "name": "Control Undead",
-   "manaCost": "V",
-   "cmc": "1",
-   "colors": [
-    "Violet"
-   ],
-   "superTypes": [
-    "Ongoing",
-    "Spell"
-   ],
-   "subTypes": [
-    "Necro",
-    "Shaman"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "You may make Handling Checks against Undead Characters.\n\nYou may use Undead Characters as Companions.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yl0jgf",
-   "name": "Control Elementals",
-   "manaCost": "BR",
-   "cmc": "2",
-   "colors": [
-    "Red",
-    "Blue"
-   ],
-   "superTypes": [
-    "Ongoing",
-    "Spell"
-   ],
-   "subTypes": [
-    "Elemental",
-    "Wizard"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "You may make Handling Checks against Elemental Characters.\n\nYou may use Elemental Characters as Companions.\n\nCompanions you control gain 5x your LVL MP.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90y6hd9u",
-   "name": "Grizzly Bear",
-   "manaCost": "GG1",
-   "cmc": "3",
-   "colors": [
-    "Green"
-   ],
-   "superTypes": [
-    "Character"
-   ],
-   "subTypes": [
-    "Wild",
-    "Clawed",
-    "Beast"
-   ],
-   "attack": "1",
-   "health": "25",
-   "arcane": "",
-   "range": "M",
-   "ruleText": "The first time this Character attacks another Character each round, it performs an additional attack on the same Character.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90y7s10d",
-   "name": "Magpie",
-   "manaCost": "G",
-   "cmc": "1",
-   "colors": [
-    "Green"
-   ],
-   "superTypes": [
-    "Character"
-   ],
-   "subTypes": [
-    "Wild",
-    "Winged",
-    "Beast"
-   ],
-   "attack": "1",
-   "health": "5",
-   "arcane": "",
-   "range": "M",
-   "ruleText": "Each Onset - This card becomes Airborne.\nWhenever this card attacks while Airborne, it loses Airborne.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yjv5oa",
-   "name": "Direwolf",
-   "manaCost": "GV/R1",
-   "cmc": "4",
-   "colors": [
-    "Red",
-    "Green",
-    "Violet"
-   ],
-   "superTypes": [
-    "Character"
-   ],
-   "subTypes": [
-    "Wild",
-    "Fanged",
-    "Beast"
-   ],
-   "attack": "2",
-   "health": "35",
-   "arcane": "",
-   "range": "M",
-   "ruleText": "Whenever this Character deals damage, it gains +1 Move this round.\n\nThe first time this card deals damage to another Character each Battle, instead it deals double that much damage.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yo2ydn",
-   "name": "Auric Belief",
-   "manaCost": "Y",
-   "cmc": "1",
-   "colors": [
-    "Yellow"
-   ],
-   "superTypes": [
-    "Ongoing",
-    "Spell"
-   ],
-   "subTypes": [
-    "Cleic"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "Spells cost {1} more to target you.\n\nSlow, 4 Rg - {1}: Move this card to another Character until the end of Battle.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yih2ui",
-   "name": "Menaj: Wolf",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Race"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "The first time you perform a Default attack each Battle, instead deal double that much damage instead.\n\nThe first time you damage an enemy Character each Battle, you can't attack any other Characters until that first Character has died.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   },
   {
    "id": "cmtypd90ygy45u",
@@ -1550,202 +2453,27 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90ygerkr",
-   "name": "Menaj: Bird",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
    ],
-   "subTypes": [
-    "Race"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nAs long as you are Airborne, you gain +1 Move.\n\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90y18vyw",
-   "name": "Menaj: Fish",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Race"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: Seabound</i>\n\nYou move your Movement while Swimming.\n\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Movement.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90ypy1ou",
-   "name": "Menaj: Amphibian",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Race"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: Maw</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\n\nIf you didn't Heal during a Battle, lose LVL HP.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yeqd2g",
-   "name": "Menaj: Reptile",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Race"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: Stout</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\n\nWhenever you cast a Spell, you lose -1 Move this round.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yz2rvh",
-   "name": "Iron Torch Sconce",
-   "manaCost": "1",
-   "cmc": "1",
-   "colors": [
-    "Grey"
-   ],
-   "superTypes": [
-    "Object"
-   ],
-   "subTypes": [
-    "Armament",
-    "Pyro",
-    "Mace"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "Single-Handed\n\nQuick - {2}: Roll D4, you gain +X Lightsource for X turns, where X is the result if the Dice roll.\n\nSlow - {R}: You gain +D4 ATK until the next time you deal damage this Battle. This ability does not stack, but higher rolls replace lower rolls.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90y9yet0",
-   "name": "Vacturn",
-   "manaCost": "1",
-   "cmc": "1",
-   "colors": [
-    "Grey"
-   ],
-   "superTypes": [
-    "Object"
-   ],
-   "subTypes": [
-    "Armament",
-    "Void",
-    "Relic"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "Accessory\n\nYou gain +5 max MP.\n\nSlow - {Y}{V}{I}{3}, X MP, Lose your next turn: Kill each other Character in X Rg. Only use this ability once.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
-  },
-  {
-   "id": "cmtypd90yteyqa",
-   "name": "Paragon of the Paladin",
-   "manaCost": "OOYY2",
-   "cmc": "6",
-   "colors": [
-    "Orange",
-    "Yellow"
-   ],
-   "superTypes": [
-    "Action",
-    "Spell"
-   ],
-   "subTypes": [
-    "Cleric",
-    "Soldier"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "Unique\nYou gain 100 {Y} this turn, you may reveal any number of cards from your Deck. You may play those cards this turn.",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": ""
+   "frame": "vr",
+   "lastUpdated": "2026-09-23"
   }
  ],
  "look": null,
