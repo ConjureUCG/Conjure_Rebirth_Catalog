@@ -1223,7 +1223,32 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "green"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "verdant",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "verdant",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   },
   {
    "id": "cmtypd90xx0oqo",
@@ -1370,7 +1395,32 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "lunar",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "lunar",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "frameColor": [
+    "blue"
+   ]
   },
   {
    "id": "cmtypd90y2106y",
@@ -1416,7 +1466,32 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   },
   {
    "id": "cmtypd90y6hd9u",
@@ -1572,7 +1647,32 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "lunar",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "lunar",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "frameColor": [
+    "blue"
+   ]
   },
   {
    "id": "cmtypd90yblubt",
@@ -1669,7 +1769,33 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "fiery",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "fiery",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "frameColor": [
+    "red",
+    "yellow"
+   ]
   },
   {
    "id": "cmtypd90yfkhf0",
@@ -1766,7 +1892,33 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "yellow",
+    "violet"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "esper",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "esper",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   },
   {
    "id": "cmtypd90ygy45u",
@@ -1936,7 +2088,32 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "orange"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "multiply"
+    },
+    "pin": {
+     "set": "copper",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "copper",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   },
   {
    "id": "cmtypd90yl0jgf",
@@ -2082,7 +2259,32 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "green"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "verdant",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "verdant",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   },
   {
    "id": "cmtypd90yqikim",
@@ -2177,7 +2379,33 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "steel",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "steel",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "frameColor": [
+    "grey",
+    "violet"
+   ]
   },
   {
    "id": "cmtypd90yteyqa",
@@ -2373,7 +2601,33 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "yellow",
+    "violet"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "esper",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "esper",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   },
   {
    "id": "cmtypd90yzqp58",
@@ -2419,7 +2673,33 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "frameColor": [
+    "red",
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "fiery",
+     "a": 1,
+     "blend": "soft-light"
+    },
+    "border": {
+     "set": "fiery",
+     "a": 1,
+     "blend": "multiply"
+    }
+   }
   }
  ],
  "look": null,
