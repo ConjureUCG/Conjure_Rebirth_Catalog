@@ -58,31 +58,31 @@
   },
   "kwStyles": {
    "Slash": {
-    "o": "#ea9999",
+    "o": "#7d5454",
     "oh": "#ea9999",
     "f": "#323232",
     "fh": "#afafaf",
-    "t": "#ea9999",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "silver",
     "w": 1.5
    },
    "Pierce": {
-    "o": "#ffe599",
+    "o": "#9b8c5f",
     "oh": "#ffe599",
     "f": "#323232",
     "fh": "#afafaf",
-    "t": "#ffe599",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "silver",
     "w": 1.5
    },
    "Blunt": {
-    "o": "#a4c2f4",
+    "o": "#4d5b75",
     "oh": "#a4c2f4",
     "f": "#323232",
     "fh": "#afafaf",
-    "t": "#a4c2f4",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "silver",
     "w": 1.5
@@ -92,7 +92,7 @@
     "oh": "#ffffff",
     "f": "#434343",
     "fh": "#afafaf",
-    "t": "#ffffff",
+    "t": "#000000",
     "shape": "dpoint",
     "hl": "silver",
     "w": 1.5
@@ -112,7 +112,7 @@
     "oh": "#d4d0f0",
     "f": "#e6d0f0",
     "fh": "#7a69ce",
-    "t": "#000000",
+    "t": "#ffffff",
     "shape": "dpoint",
     "hl": "verdigris",
     "w": 1.5
@@ -152,17 +152,17 @@
     "oh": "#ff00d0",
     "f": "#e8a8ff",
     "fh": "#00ffd5",
-    "t": "#290c55",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "lunar",
     "w": 3
    },
    "Necrotic": {
-    "o": "#b6d7a8",
+    "o": "#869c7c",
     "oh": "#104118",
     "f": "#104118",
     "fh": "#b6d7a8",
-    "t": "#dbffcc",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "necro",
     "w": 3
@@ -172,7 +172,7 @@
     "oh": "#ff0000",
     "f": "#280b0b",
     "fh": "#280b0b",
-    "t": "#ff0000",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "demonic",
     "w": 3
@@ -188,7 +188,7 @@
     "w": 3
    },
    "Gravity": {
-    "o": "#d596ef",
+    "o": "#7f5d8e",
     "oh": "#802a79",
     "f": "#802a79",
     "fh": "#d596ef",
@@ -218,7 +218,7 @@
     "w": 1.5
    },
    "Water": {
-    "o": "#c9daf8",
+    "o": "#58606f",
     "oh": "#c8cedb",
     "f": "#0062ff",
     "fh": "#71a7fe",
@@ -232,7 +232,7 @@
     "oh": "#ff00c8",
     "f": "#d5a6bd",
     "fh": "#ff70bc",
-    "t": "#741b47",
+    "t": "#ffffff",
     "shape": "box",
     "hl": "esper",
     "w": 3

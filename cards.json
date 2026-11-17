@@ -3,7 +3,7 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 38,
+  "cardCount": 44,
   "keywordCount": 36,
   "lookSlots": 0,
   "markCount": 0,
@@ -808,7 +808,7 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main-Hand\nQuick - 15 MP: Another target Character gains +1 ATK or +1 Move this turn.\n\nOff-Hand\nSlow - 10 MP: Another target Character gains +1 Move this round.",
+   "ruleText": "Main-Hand\nBL\nQuick - 15 MP: Another target Character gains +1 ATK or +1 Move this turn.\n\nOff-Hand\nSlow - 10 MP: Another target Character gains +1 Move this round.",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -840,7 +840,7 @@
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\nQuick - 15 MP: Another target Character gains +1 ATK or +1 Move this turn.",
+     "text": "Main-Hand\nBL\nQuick - 15 MP: Another target Character gains +1 ATK or +1 Move this turn.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -875,7 +875,7 @@
    "health": "",
    "arcane": "25",
    "range": "6",
-   "ruleText": "Main-Hand\nDefault attack costs 10 MP.\n\nOff-Hand\n+1 Rg to Spells you cast.",
+   "ruleText": "Main-Hand\nMA\nDefault attack costs 10 MP.\n\nOff-Hand\n+1 Rg to Spells you cast.",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -907,7 +907,7 @@
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\nDefault attack costs 10 MP.",
+     "text": "Main-Hand\nMA\nDefault attack costs 10 MP.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -944,7 +944,7 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main-Hand\n+1 Melee Rg\n\nOff-Hand\n+1 ATK",
+   "ruleText": "Main-Hand\nPI\n+1 Melee Rg\n\nOff-Hand\n+1 ATK",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -976,7 +976,7 @@
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\n+1 Melee Rg",
+     "text": "Main-Hand\nPI\n+1 Melee Rg",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -1014,7 +1014,7 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main Hand\nWhenever you kill a Character, you gain a free attack.\n\nOff Hand\n+1 ATK",
+   "ruleText": "Main-Hand\nPI\nWhenever you kill a Character, you gain a free attack.\n\nOff-Hand\n+1 ATK",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -1043,26 +1043,26 @@
    ],
    "frame": "vr",
    "lastUpdated": "2026-11-17",
-   "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main Hand\nWhenever you kill a Character, you gain a free attack.",
+     "text": "Main-Hand\nPI\nWhenever you kill a Character, you gain a free attack.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
      "subTypes": []
     },
     {
-     "text": "Off Hand\n+1 ATK",
+     "text": "Off-Hand\n+1 ATK",
      "name": "",
      "manaCost": "",
      "superTypes": [],
      "subTypes": []
     }
    ],
-   "splitChoice": true,
    "choiceText": "Single-Handed",
-   "cid": "c1u0sspg0cezxp6"
+   "cid": "c1u0sspg0cezxp6",
+   "splitChoice": true,
+   "rulesSplit": 2
   },
   {
    "id": "cmtypd90xoq8ca",
@@ -1083,7 +1083,7 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main-Hand\n+2 ATK\n\nOff-Hand\nOnce per Battle, you may use a free Default attack at Quick speed.",
+   "ruleText": "Main-Hand\nSL\n+2 ATK\n\nOff-Hand\nOnce per Battle, you may use a free Default attack at Quick speed.",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -1114,7 +1114,7 @@
    "lastUpdated": "2026-11-17",
    "sections": [
     {
-     "text": "Main-Hand\n+2 ATK",
+     "text": "Main-Hand\nSL\n+2 ATK",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -1248,7 +1248,7 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Two-Handed\n\nQuick, 10 Rg - {R}{R}{2}: Another target Character gains {R} AP during their next turn.\n\nSlow, 6 Rg - {R}{1}: Another target Character gains {1} AP this turn.",
+   "ruleText": "Two-Handed\nBL\nQuick, 10 Rg - {R}{R}{2}: Another target Character gains {R} AP during their next turn.\n\nSlow, 6 Rg - {R}{1}: Another target Character gains {1} AP this turn.",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -2653,6 +2653,363 @@
     }
    },
    "cid": "c1kxuk580kx509u"
+  },
+  {
+   "id": "cmwk191r1rs6k0",
+   "name": "Necro-Auric Conversion",
+   "manaCost": "BI/V",
+   "cmc": "2",
+   "colors": [
+    "blue",
+    "indigo",
+    "violet"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Necro",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Once per Battle - Slow - Pay any amount of HP: Recovery MP equal to the HP you paid.\n \nOnce per Battle - Slow - Rg M - Pay any amount of MP: Make a HC against target Character. If you pass, they lose HP equal to the MP you paid.\n",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwk191r1r6cxf56r9v7p",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "cmwk1atdiexaqg",
+   "name": "Templar's Oath",
+   "manaCost": "R/BY",
+   "cmc": "2",
+   "colors": [
+    "red",
+    "yellow",
+    "blue"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Warrior",
+    "Cleic"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "If a Yellow Spell you cast would Heal, instead it Heals an additional LVL HP.\nYellow Spells you cast cost 10MP less.\nSpells you play have Rg M.\n",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwk1atdio7d46ebg3gwm",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "cmwk1ce4krtovt",
+   "name": "Vauric Touch",
+   "manaCost": "V2",
+   "cmc": "3",
+   "colors": [
+    "violet"
+   ],
+   "superTypes": [
+    "Spell"
+   ],
+   "subTypes": [
+    "Necro"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "50",
+   "ruleText": "Deal 1 damage to any Character. Make a HC against that Character. If you succeed, kill that Character.",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwk1ce4kfk4np889h491",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "50"
+    },
+    {
+     "type": "range",
+     "value": "E"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-17",
+   "range": "E"
+  },
+  {
+   "id": "cmwk1fz8zbtt2f",
+   "name": "Judgement Defense",
+   "manaCost": "RY",
+   "cmc": "2",
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Action"
+   ],
+   "subTypes": [
+    "Shield"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "When you Block with a Shield, you gain +LVL Attack until the next time you deal damage.",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwk1fz8z4z62ebklgfvf",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-17",
+   "frame": "vr"
+  },
+  {
+   "id": "cmwk1jhon0z4xa",
+   "name": "Giant Key",
+   "manaCost": "R/O",
+   "cmc": "1",
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "superTypes": [
+    "Armament"
+   ],
+   "subTypes": [
+    "Giant",
+    "Mace",
+    "Artificer"
+   ],
+   "attack": "ATK",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Two-Handed\nBL\n+1 ATK.\nOnce Per Long Rest - You can make a Lock Check + your ATK (<i>Loud</i>).",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwk1jhony9rzw0audhox",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "ATK"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "artXf": {
+    "z": 1,
+    "x": 0,
+    "y": 0,
+    "r": 0,
+    "f": 1
+   },
+   "lastUpdated": "2026-11-17",
+   "frame": "vr",
+   "range": "M"
+  },
+  {
+   "id": "cmwk1xg10543s0",
+   "name": "Silent Night",
+   "manaCost": "YBI",
+   "cmc": "3",
+   "colors": [
+    "yellow",
+    "blue",
+    "indigo"
+   ],
+   "superTypes": [
+    "Armament"
+   ],
+   "subTypes": [
+    "Esper",
+    "Instrument"
+   ],
+   "attack": "LVL",
+   "health": "",
+   "arcane": "75",
+   "ruleText": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\n\n\n{Y}: The next Character you deal damage to can't cast Spells until the start of their next turn.\n\n\n{B/I}: The next Character you deal damage to also loses MP equal to the damage deal to them this turn.",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwk1xg1078smshb31670",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "LVL"
+    },
+    {
+     "type": "arcane",
+     "value": "75"
+    },
+    {
+     "type": "range",
+     "value": "7"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-17",
+   "frame": "vr",
+   "range": "7",
+   "rulesSplit": 3,
+   "sections": [
+    {
+     "text": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\n",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "{Y}: The next Character you deal damage to can't cast Spells until the start of their next turn.\n",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "{B/I}: The next Character you deal damage to also loses MP equal to the damage deal to them this turn.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "splitChoice": true,
+   "choiceText": "Two-Handed"
   }
  ],
  "look": null,
