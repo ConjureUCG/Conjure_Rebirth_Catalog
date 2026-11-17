@@ -3,7 +3,6 @@
  "look": {
   "slots": {},
   "edgeMode": "gradient",
-  "pinMode": "gradient",
   "tplDefaults": {
    "h": {
     "fit": "contain",
@@ -57,9 +56,210 @@
    "h": "left",
    "v": "top"
   },
-  "kwStyles": {},
+  "kwStyles": {
+   "Slash": {
+    "o": "#ea9999",
+    "oh": "#ea9999",
+    "f": "#323232",
+    "fh": "#afafaf",
+    "t": "#ea9999",
+    "shape": "box",
+    "hl": "silver",
+    "w": 1.5
+   },
+   "Pierce": {
+    "o": "#ffe599",
+    "oh": "#ffe599",
+    "f": "#323232",
+    "fh": "#afafaf",
+    "t": "#ffe599",
+    "shape": "box",
+    "hl": "silver",
+    "w": 1.5
+   },
+   "Blunt": {
+    "o": "#a4c2f4",
+    "oh": "#a4c2f4",
+    "f": "#323232",
+    "fh": "#afafaf",
+    "t": "#a4c2f4",
+    "shape": "box",
+    "hl": "silver",
+    "w": 1.5
+   },
+   "Physical": {
+    "o": "#ffffff",
+    "oh": "#ffffff",
+    "f": "#434343",
+    "fh": "#afafaf",
+    "t": "#ffffff",
+    "shape": "dpoint",
+    "hl": "silver",
+    "w": 1.5
+   },
+   "Elemental": {
+    "o": "#6ebace",
+    "oh": "#533acf",
+    "f": "#533acf",
+    "fh": "#6ebace",
+    "t": "#ffffff",
+    "shape": "dpoint",
+    "hl": "irid",
+    "w": 1.5
+   },
+   "Mystic": {
+    "o": "#9c69ce",
+    "oh": "#d4d0f0",
+    "f": "#e6d0f0",
+    "fh": "#7a69ce",
+    "t": "#000000",
+    "shape": "dpoint",
+    "hl": "verdigris",
+    "w": 1.5
+   },
+   "Fire": {
+    "o": "#4d0000",
+    "oh": "#ff0000",
+    "f": "#ff0000",
+    "fh": "#fff700",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "fiery",
+    "w": 1.5
+   },
+   "Lightning": {
+    "o": "#b89000",
+    "oh": "#fff700",
+    "f": "#d6cf00",
+    "fh": "#00ffcc",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "electric",
+    "w": 1.5
+   },
+   "Earth": {
+    "o": "#159d25",
+    "oh": "#806c2d",
+    "f": "#806c2d",
+    "fh": "#159d25",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "earthen",
+    "w": 1.5
+   },
+   "Magic": {
+    "o": "#351c75",
+    "oh": "#ff00d0",
+    "f": "#e8a8ff",
+    "fh": "#00ffd5",
+    "t": "#290c55",
+    "shape": "box",
+    "hl": "lunar",
+    "w": 3
+   },
+   "Necrotic": {
+    "o": "#b6d7a8",
+    "oh": "#104118",
+    "f": "#104118",
+    "fh": "#b6d7a8",
+    "t": "#dbffcc",
+    "shape": "box",
+    "hl": "necro",
+    "w": 3
+   },
+   "Demonic": {
+    "o": "#ff0000",
+    "oh": "#ff0000",
+    "f": "#280b0b",
+    "fh": "#280b0b",
+    "t": "#ff0000",
+    "shape": "box",
+    "hl": "demonic",
+    "w": 3
+   },
+   "Holy": {
+    "o": "#36290d",
+    "oh": "#efeecc",
+    "f": "#fefa90",
+    "fh": "#5cffe4",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "platinum",
+    "w": 3
+   },
+   "Gravity": {
+    "o": "#d596ef",
+    "oh": "#802a79",
+    "f": "#802a79",
+    "fh": "#d596ef",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "voidhl",
+    "w": 3
+   },
+   "Ice": {
+    "o": "#1155cc",
+    "oh": "#c8cedb",
+    "f": "#1155cc",
+    "fh": "#ccdeff",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "lunar",
+    "w": 1.5
+   },
+   "Wind": {
+    "o": "#4c00ff",
+    "oh": "#8b72c5",
+    "f": "#8b72c5",
+    "fh": "#4c00ff",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "ghost",
+    "w": 1.5
+   },
+   "Water": {
+    "o": "#c9daf8",
+    "oh": "#c8cedb",
+    "f": "#0062ff",
+    "fh": "#71a7fe",
+    "t": "#ffffff",
+    "shape": "box",
+    "hl": "frozen",
+    "w": 1.5
+   },
+   "Psychic": {
+    "o": "#741b47",
+    "oh": "#ff00c8",
+    "f": "#d5a6bd",
+    "fh": "#ff70bc",
+    "t": "#741b47",
+    "shape": "box",
+    "hl": "esper",
+    "w": 3
+   }
+  },
   "pillsOn": true,
-  "kwCustom": [],
+  "kwCustom": [
+   {
+    "id": "kwc_cmuugjway4x8rx",
+    "name": "Lightning",
+    "mode": "damage",
+    "match": "Lightning",
+    "matchAlt": "LI",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Elemental"
+    ]
+   }
+  ],
+  "cardLook": {
+   "frame": "sevenfold",
+   "orbs": "",
+   "back": "omnibus"
+  },
   "format": 1
  },
  "marks": []

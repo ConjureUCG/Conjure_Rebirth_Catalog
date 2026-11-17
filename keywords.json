@@ -1,1 +1,484 @@
-[]
+[
+ {
+  "name": "Physical",
+  "mode": "damage",
+  "match": "Physical",
+  "matchAlt": "PHYS",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "class",
+  "dmgClass": [],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Physical",
+  "mode": "damage",
+  "match": "PHYS",
+  "matchAlt": "PHYS",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "class",
+  "dmgClass": [],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Elemental",
+  "mode": "damage",
+  "match": "Elemental",
+  "matchAlt": "ELEM",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "class",
+  "dmgClass": [],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Elemental",
+  "mode": "damage",
+  "match": "ELEM",
+  "matchAlt": "ELEM",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "class",
+  "dmgClass": [],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Mystic",
+  "mode": "damage",
+  "match": "Mystic",
+  "matchAlt": "MYST",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "class",
+  "dmgClass": [],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Mystic",
+  "mode": "damage",
+  "match": "MYST",
+  "matchAlt": "MYST",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "class",
+  "dmgClass": [],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Slash",
+  "mode": "damage",
+  "match": "Slash",
+  "matchAlt": "SL",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Slash",
+  "mode": "damage",
+  "match": "SL",
+  "matchAlt": "SL",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Pierce",
+  "mode": "damage",
+  "match": "Pierce",
+  "matchAlt": "PI",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Pierce",
+  "mode": "damage",
+  "match": "PI",
+  "matchAlt": "PI",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Blunt",
+  "mode": "damage",
+  "match": "Blunt",
+  "matchAlt": "BL",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Blunt",
+  "mode": "damage",
+  "match": "BL",
+  "matchAlt": "BL",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Fire",
+  "mode": "damage",
+  "match": "Fire",
+  "matchAlt": "FI",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Fire",
+  "mode": "damage",
+  "match": "FI",
+  "matchAlt": "FI",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Ice",
+  "mode": "damage",
+  "match": "Ice",
+  "matchAlt": "IC",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Ice",
+  "mode": "damage",
+  "match": "IC",
+  "matchAlt": "IC",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Wind",
+  "mode": "damage",
+  "match": "Wind",
+  "matchAlt": "WI",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Wind",
+  "mode": "damage",
+  "match": "WI",
+  "matchAlt": "WI",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Earth",
+  "mode": "damage",
+  "match": "Earth",
+  "matchAlt": "EA",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Earth",
+  "mode": "damage",
+  "match": "EA",
+  "matchAlt": "EA",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Water",
+  "mode": "damage",
+  "match": "Water",
+  "matchAlt": "WA",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Water",
+  "mode": "damage",
+  "match": "WA",
+  "matchAlt": "WA",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Magic",
+  "mode": "damage",
+  "match": "Magic",
+  "matchAlt": "MA",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Magic",
+  "mode": "damage",
+  "match": "MA",
+  "matchAlt": "MA",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Psychic",
+  "mode": "damage",
+  "match": "Psychic",
+  "matchAlt": "PS",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Psychic",
+  "mode": "damage",
+  "match": "PS",
+  "matchAlt": "PS",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Necrotic",
+  "mode": "damage",
+  "match": "Necrotic",
+  "matchAlt": "NE",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Necrotic",
+  "mode": "damage",
+  "match": "NE",
+  "matchAlt": "NE",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Holy",
+  "mode": "damage",
+  "match": "Holy",
+  "matchAlt": "HO",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Holy",
+  "mode": "damage",
+  "match": "HO",
+  "matchAlt": "HO",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Demonic",
+  "mode": "damage",
+  "match": "Demonic",
+  "matchAlt": "DE",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Demonic",
+  "mode": "damage",
+  "match": "DE",
+  "matchAlt": "DE",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Mystic"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Gravity",
+  "mode": "damage",
+  "match": "Gravity",
+  "matchAlt": "GR",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical",
+   "Elemental",
+   "Mystic"
+  ],
+  "__dmgBuiltin": true
+ },
+ {
+  "name": "Gravity",
+  "mode": "damage",
+  "match": "GR",
+  "matchAlt": "GR",
+  "param": "number",
+  "reminder": "",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Physical",
+   "Elemental",
+   "Mystic"
+  ],
+  "__dmgBuiltin": true,
+  "__alias": true
+ },
+ {
+  "name": "Lightning",
+  "mode": "damage",
+  "match": "Lightning",
+  "reminder": "",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmuugjway4x8rx",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "matchAlt": "LI"
+ },
+ {
+  "name": "Lightning",
+  "mode": "damage",
+  "match": "LI",
+  "reminder": "",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmuugjway4x8rx",
+  "dmgKind": "type",
+  "dmgClass": [
+   "Elemental"
+  ],
+  "matchAlt": "LI",
+  "__alias": true
+ }
+]

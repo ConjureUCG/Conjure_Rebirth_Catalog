@@ -1,9 +1,11 @@
 {
  "name": "Conjure UCG",
  "format": 2,
- "cardCount": 40,
- "keywordCount": 0,
+ "game": "rebirth",
+ "cardCount": 38,
+ "keywordCount": 36,
  "lookSlots": 0,
  "markCount": 0,
+ "markPrint": "2:3hnx9",
  "artBase": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/"
 }

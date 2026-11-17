@@ -2,10 +2,12 @@
  "manifest": {
   "name": "Conjure UCG",
   "format": 2,
-  "cardCount": 40,
-  "keywordCount": 0,
+  "game": "rebirth",
+  "cardCount": 38,
+  "keywordCount": 36,
   "lookSlots": 0,
   "markCount": 0,
+  "markPrint": "2:3hnx9",
   "artBase": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/"
  },
  "cards": [
@@ -117,7 +119,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8aghf08j6"
+   "id": "cmudc8aghf08j6",
+   "cid": "c05f45v30yf97uh"
   },
   {
    "name": "Vig Essence",
@@ -227,7 +230,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8aghlvcol"
+   "id": "cmudc8aghlvcol",
+   "cid": "c0gf51101rdq4y6"
   },
   {
    "name": "Ire Essence",
@@ -337,7 +341,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8aghm93ij"
+   "id": "cmudc8aghm93ij",
+   "cid": "c1d2q6321i2fwly"
   },
   {
    "name": "Arch Essence",
@@ -447,7 +452,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8aghiloxi"
+   "id": "cmudc8aghiloxi",
+   "cid": "c0880x2k0if0x30"
   },
   {
    "name": "Lux Essence",
@@ -557,7 +563,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8agh4inb9"
+   "id": "cmudc8agh4inb9",
+   "cid": "c1v8g7ev0qhrde1"
   },
   {
    "name": "Psy Essence",
@@ -667,7 +674,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8aghmbgps"
+   "id": "cmudc8aghmbgps",
+   "cid": "c0w8e6oa0qafryo"
   },
   {
    "name": "Gris Essence",
@@ -777,7 +785,8 @@
    ],
    "variant": "v1",
    "sagaId": "Core Essence",
-   "id": "cmudc8agh5ost1"
+   "id": "cmudc8agh5ost1",
+   "cid": "c0psapvn122hapn"
   },
   {
    "id": "cmtypd90x0lpuy",
@@ -785,14 +794,12 @@
    "manaCost": "G2",
    "cmc": "3",
    "colors": [
-    "green",
-    "grey"
+    "green"
    ],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Bard",
     "Druid",
     "Focus"
@@ -829,7 +836,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23",
+   "lastUpdated": "2026-11-17",
    "rulesSplit": 2,
    "sections": [
     {
@@ -847,7 +854,8 @@
      "subTypes": []
     }
    ],
-   "splitChoice": true
+   "splitChoice": true,
+   "cid": "c1k3vpxn1ka2bk1"
   },
   {
    "id": "cmtypd90x2zaa5",
@@ -855,14 +863,12 @@
    "manaCost": "BB1",
    "cmc": "3",
    "colors": [
-    "blue",
-    "grey"
+    "blue"
    ],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Focus"
    ],
    "attack": "2",
@@ -897,7 +903,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23",
+   "lastUpdated": "2026-11-17",
    "rulesSplit": 2,
    "sections": [
     {
@@ -915,7 +921,8 @@
      "subTypes": []
     }
    ],
-   "splitChoice": true
+   "splitChoice": true,
+   "cid": "c19jiepa15hlqdi"
   },
   {
    "id": "cmtypd90x4r54n",
@@ -924,14 +931,12 @@
    "cmc": "2",
    "colors": [
     "red",
-    "orange",
-    "grey"
+    "orange"
    ],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Soldier",
     "Spear"
    ],
@@ -967,7 +972,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23",
+   "lastUpdated": "2026-11-17",
    "rulesSplit": 2,
    "sections": [
     {
@@ -986,7 +991,8 @@
     }
    ],
    "splitChoice": true,
-   "choiceText": "Dual-Wieldable"
+   "choiceText": "Dual-Wieldable",
+   "cid": "c13te4bh0jo5y6z"
   },
   {
    "id": "cmtypd90x741io",
@@ -995,11 +1001,10 @@
    "cmc": "1",
    "colors": [
     "red",
-    "violet",
-    "grey"
+    "violet"
    ],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
     "Rouge",
@@ -1037,7 +1042,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23",
+   "lastUpdated": "2026-11-17",
    "rulesSplit": 2,
    "sections": [
     {
@@ -1056,58 +1061,8 @@
     }
    ],
    "splitChoice": true,
-   "choiceText": "Single-Handed"
-  },
-  {
-   "id": "cmtypd90xjyiag",
-   "name": "New Card 2",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [
-    "grey"
-   ],
-   "superTypes": [
-    "Object"
-   ],
-   "subTypes": [
-    "Armament",
-    "Druid",
-    "Plant",
-    "Focus"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "",
-   "flavor": "",
-   "saga": "Imported",
-   "sagaId": "Imported",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "choiceText": "Single-Handed",
+   "cid": "c1u0sspg0cezxp6"
   },
   {
    "id": "cmtypd90xoq8ca",
@@ -1115,14 +1070,12 @@
    "manaCost": "R1",
    "cmc": "2",
    "colors": [
-    "red",
-    "grey"
+    "red"
    ],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Warrior",
     "Sword"
    ],
@@ -1158,7 +1111,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23",
+   "lastUpdated": "2026-11-17",
    "sections": [
     {
      "text": "Main-Hand\n+2 ATK",
@@ -1177,7 +1130,8 @@
    ],
    "rulesSplit": 2,
    "splitChoice": true,
-   "choiceText": "Dual-Wieldable"
+   "choiceText": "Dual-Wieldable",
+   "cid": "c0ihqo3x0kg4uat"
   },
   {
    "id": "cmtypd90xorf9h",
@@ -1223,7 +1177,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23",
+   "lastUpdated": "2026-11-07",
    "frameColor": [
     "green"
    ],
@@ -1248,6 +1202,31 @@
      "a": 1,
      "blend": "multiply"
     }
+   },
+   "cid": "c0fwh1ky0t2ib5k",
+   "borderLook": {
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "verdant",
+      "a": 1,
+      "blend": "soft-light"
+     },
+     "border": {
+      "set": "verdant",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
    }
   },
   {
@@ -1256,14 +1235,12 @@
    "manaCost": "R2",
    "cmc": "3",
    "colors": [
-    "red",
-    "grey"
+    "red"
    ],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Warrior",
     "Instrument"
    ],
@@ -1299,7 +1276,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-11-17",
+   "cid": "c1ldlrxe01cjanq"
   },
   {
    "id": "cmtypd90y02cfs",
@@ -1349,7 +1327,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "cid": "c106sbjj0vedd63"
   },
   {
    "id": "cmtypd90y18vyw",
@@ -1420,7 +1399,8 @@
    },
    "frameColor": [
     "blue"
-   ]
+   ],
+   "cid": "c1uqg4r0194ivki"
   },
   {
    "id": "cmtypd90y2106y",
@@ -1491,7 +1471,8 @@
      "a": 1,
      "blend": "multiply"
     }
-   }
+   },
+   "cid": "c17zjcpw1vunqvc"
   },
   {
    "id": "cmtypd90y6hd9u",
@@ -1521,7 +1502,8 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "cid": "c10sme360d617h0"
   },
   {
    "id": "cmtypd90y7s10d",
@@ -1551,21 +1533,19 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "cid": "c0ryoymo064fp9g"
   },
   {
    "id": "cmtypd90y9yet0",
    "name": "Vacturn",
    "manaCost": "1",
    "cmc": "1",
-   "colors": [
-    "grey"
-   ],
+   "colors": [],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Void",
     "Relic"
    ],
@@ -1601,7 +1581,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-11-17",
+   "cid": "c1dhmdvk11qiq3u"
   },
   {
    "id": "cmtypd90ybjqup",
@@ -1672,7 +1653,8 @@
    },
    "frameColor": [
     "blue"
-   ]
+   ],
+   "cid": "c0smmhta04cy0be"
   },
   {
    "id": "cmtypd90yblubt",
@@ -1723,7 +1705,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-10-24",
+   "cid": "c1lbvofv1is4n5d"
   },
   {
    "id": "cmtypd90yeqd2g",
@@ -1795,7 +1778,8 @@
    "frameColor": [
     "red",
     "yellow"
-   ]
+   ],
+   "cid": "c1vwcxlj148fgcx"
   },
   {
    "id": "cmtypd90yfkhf0",
@@ -1846,7 +1830,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "cid": "c0jwzl7x0prad0p"
   },
   {
    "id": "cmtypd90ygerkr",
@@ -1918,53 +1903,8 @@
      "a": 1,
      "blend": "multiply"
     }
-   }
-  },
-  {
-   "id": "cmtypd90ygy45u",
-   "name": "_Default Race",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Race"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "",
-   "flavor": "",
-   "saga": "Test",
-   "sagaId": "Test",
-   "revision": "",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   },
+   "cid": "c1uqd1sz194gblf"
   },
   {
    "id": "cmtypd90yih2ui",
@@ -2010,7 +1950,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "cid": "c1uqtd0a194tumk"
   },
   {
    "id": "cmtypd90yjv5oa",
@@ -2042,7 +1983,8 @@
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2026",
    "imageUrl": "",
-   "art": ""
+   "art": "",
+   "cid": "c1t8i2gp1t0eb11"
   },
   {
    "id": "cmtypd90yks9sa",
@@ -2113,7 +2055,8 @@
      "a": 1,
      "blend": "multiply"
     }
-   }
+   },
+   "cid": "c1kp4qfk0kqc5qy"
   },
   {
    "id": "cmtypd90yl0jgf",
@@ -2136,7 +2079,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "You may make Handling Checks against Elemental Characters.\n\nYou may use Elemental Characters as Companions.\n\nCompanions you control gain 5x your LVL MP.",
+   "ruleText": "You may make Handling Checks against Elemental Characters.\n\nYou may use Elemental Characters as Companions.\n\nCompanions you control gain 5x your LVL in MP.",
    "flavor": "",
    "saga": "Imported",
    "sagaId": "Imported",
@@ -2164,7 +2107,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-10-24",
+   "cid": "c07ltlqg1y4u6qi"
   },
   {
    "id": "cmtypd90yo2ydn",
@@ -2213,7 +2157,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-09-23",
+   "cid": "c0519coo0mh2lx0"
   },
   {
    "id": "cmtypd90ypy1ou",
@@ -2284,7 +2229,8 @@
      "a": 1,
      "blend": "multiply"
     }
-   }
+   },
+   "cid": "c10x8cq31aybr5r"
   },
   {
    "id": "cmtypd90yqikim",
@@ -2335,7 +2281,8 @@
     }
    ],
    "lastUpdated": "2026-09-23",
-   "frame": "vr"
+   "frame": "vr",
+   "cid": "c05m0tos1q9gug6"
   },
   {
    "id": "cmtypd90yt0a5t",
@@ -2405,7 +2352,8 @@
    "frameColor": [
     "grey",
     "violet"
-   ]
+   ],
+   "cid": "c01nb19b0yxpt3n"
   },
   {
    "id": "cmtypd90yteyqa",
@@ -2455,21 +2403,22 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-10-24",
+   "cid": "c16dvff81607vw0",
+   "borderLook": {
+    "frameColor": null
+   }
   },
   {
    "id": "cmtypd90yz2rvh",
    "name": "Iron Torch Sconce",
    "manaCost": "1",
    "cmc": "1",
-   "colors": [
-    "grey"
-   ],
+   "colors": [],
    "superTypes": [
-    "Object"
+    "Armament"
    ],
    "subTypes": [
-    "Armament",
     "Pyro",
     "Mace"
    ],
@@ -2505,7 +2454,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-11-17",
+   "cid": "c0eiufbk18h57ky"
   },
   {
    "id": "cmtypd90yzcpdp",
@@ -2555,7 +2505,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-09-23"
+   "lastUpdated": "2026-11-08",
+   "cid": "c1g1pefk0y33q5m"
   },
   {
    "id": "cmtypd90yzfoh8",
@@ -2627,7 +2578,8 @@
      "a": 1,
      "blend": "multiply"
     }
-   }
+   },
+   "cid": "c0yie82v0awze0r"
   },
   {
    "id": "cmtypd90yzqp58",
@@ -2699,7 +2651,8 @@
      "a": 1,
      "blend": "multiply"
     }
-   }
+   },
+   "cid": "c1kxuk580kx509u"
   }
  ],
  "look": null,

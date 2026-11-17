@@ -1,0 +1,155 @@
+{
+ "manifest": {
+  "name": "Conjure UCG",
+  "format": 2,
+  "testing": true,
+  "cardCount": 3
+ },
+ "cards": [
+  {
+   "id": "cmtypd90xjyiag",
+   "name": "New Card 2",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Armament"
+   ],
+   "subTypes": [
+    "Druid",
+    "Plant",
+    "Focus"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "",
+   "flavor": "",
+   "saga": "Imported",
+   "sagaId": "Imported",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-17",
+   "cid": "c0ckno0j0tiu831",
+   "testing": 1
+  },
+  {
+   "id": "cmtypd90ygy45u",
+   "name": "_Default Race",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Race"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "",
+   "flavor": "",
+   "saga": "Test",
+   "sagaId": "Test",
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-10-24",
+   "cid": "c127ahw81wscxbq",
+   "testing": 1
+  },
+  {
+   "id": "cmvmpeadj6x2ls",
+   "name": "New Card",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmvmpeadkoul7cpv0d3nz",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "testing": 1,
+   "lastUpdated": "2026-10-24"
+  }
+ ]
+}
