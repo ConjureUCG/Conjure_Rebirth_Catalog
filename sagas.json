@@ -1,26 +1,18 @@
 [
  {
-  "id": "Core Essence",
-  "name": "Core Essence",
-  "author": "",
-  "version": "1.0",
-  "description": "",
-  "cardCount": 13
- },
- {
-  "id": "Imported",
-  "name": "Imported",
-  "author": "",
-  "version": "1.0",
-  "description": "",
-  "cardCount": 30
- },
- {
   "id": "Test",
   "name": "Test",
   "author": "",
   "version": "1.0",
   "description": "",
   "cardCount": 1
+ },
+ {
+  "id": "Venture",
+  "name": "Venture",
+  "author": "",
+  "version": "1.0",
+  "description": "",
+  "cardCount": 85
  }
 ]

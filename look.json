@@ -50,6 +50,48 @@
     "kind": "super",
     "h": "center",
     "v": "middle"
+   },
+   {
+    "key": "Armament",
+    "kind": "super",
+    "h": "center",
+    "v": "middle"
+   },
+   {
+    "key": "Background",
+    "kind": "super",
+    "h": "center",
+    "v": "middle"
+   },
+   {
+    "key": "Consumable",
+    "kind": "super",
+    "h": "center",
+    "v": "top"
+   },
+   {
+    "key": "Core",
+    "kind": "super",
+    "h": "default",
+    "v": "default"
+   },
+   {
+    "key": "Mythic",
+    "kind": "super",
+    "h": "default",
+    "v": "default"
+   },
+   {
+    "key": "Ongoing",
+    "kind": "super",
+    "h": "default",
+    "v": "default"
+   },
+   {
+    "key": "Spell",
+    "kind": "super",
+    "h": "default",
+    "v": "default"
    }
   ],
   "alignBase": {
@@ -236,6 +278,16 @@
     "shape": "box",
     "hl": "esper",
     "w": 3
+   },
+   "New entry": {
+    "o": "#4a34bc",
+    "oh": "#72248f",
+    "f": "#1e0a85",
+    "fh": "#6230c0",
+    "t": "#ffffff",
+    "shape": "slant",
+    "hl": "blood",
+    "w": 3
    }
   },
   "pillsOn": true,
@@ -253,6 +305,250 @@
     "dmgClass": [
      "Elemental"
     ]
+   },
+   {
+    "id": "kwc_cmwlfhhuuoioh1",
+    "name": "Fire",
+    "mode": "damage",
+    "match": "Fire",
+    "matchAlt": "FI",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Elemental"
+    ]
+   },
+   {
+    "id": "kwc_cmwmma8dy640x6",
+    "name": "Exhasut",
+    "mode": "keyword",
+    "match": "Exhaust",
+    "matchAlt": "",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": ""
+   },
+   {
+    "id": "kwc_cmwmmgr7hqqgdt",
+    "name": "Wind",
+    "mode": "damage",
+    "match": "Wind",
+    "matchAlt": "WI",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Elemental"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmgski7nvm8",
+    "name": "Ice",
+    "mode": "damage",
+    "match": "Ice",
+    "matchAlt": "IC",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Elemental"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmgtx5rb3da",
+    "name": "Gravity",
+    "mode": "damage",
+    "match": "Gravity",
+    "matchAlt": "GR",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Physical",
+     "Elemental",
+     "Mystic"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmgw8d5m94k",
+    "name": "Pierce",
+    "mode": "damage",
+    "match": "Pierce",
+    "matchAlt": "PI",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Physical"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmgy635znzc",
+    "name": "Mystic",
+    "mode": "damage",
+    "match": "Mystic",
+    "matchAlt": "MYST",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "class",
+    "dmgClass": []
+   },
+   {
+    "id": "kwc_cmwmmgzhshkrd1",
+    "name": "Physical",
+    "mode": "damage",
+    "match": "Physical",
+    "matchAlt": "PHYS",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "class",
+    "dmgClass": []
+   },
+   {
+    "id": "kwc_cmwmmh0srizmjb",
+    "name": "Water",
+    "mode": "damage",
+    "match": "Water",
+    "matchAlt": "WA",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Elemental"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmh228o4p4k",
+    "name": "Psychic",
+    "mode": "damage",
+    "match": "Psychic",
+    "matchAlt": "PS",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Mystic"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmh3bxavwsr",
+    "name": "Holy",
+    "mode": "damage",
+    "match": "Holy",
+    "matchAlt": "HO",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Mystic"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmh4zxni2pk",
+    "name": "Demonic",
+    "mode": "damage",
+    "match": "Demonic",
+    "matchAlt": "DE",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Mystic"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmh6m6kyi45",
+    "name": "Necrotic",
+    "mode": "damage",
+    "match": "Necrotic",
+    "matchAlt": "NE",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Mystic"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmh86uymnyd",
+    "name": "Magic",
+    "mode": "damage",
+    "match": "Magic",
+    "matchAlt": "MA",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Mystic"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmh9wrr9evn",
+    "name": "Earth",
+    "mode": "damage",
+    "match": "Earth",
+    "matchAlt": "EA",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Elemental"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmhbkpe60gd",
+    "name": "Blunt",
+    "mode": "damage",
+    "match": "Blunt",
+    "matchAlt": "BL",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Physical"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmhd9psjdwy",
+    "name": "Slash",
+    "mode": "damage",
+    "match": "Slash",
+    "matchAlt": "SL",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "type",
+    "dmgClass": [
+     "Physical"
+    ]
+   },
+   {
+    "id": "kwc_cmwmmhez07fxpk",
+    "name": "Elemental",
+    "mode": "damage",
+    "match": "Elemental",
+    "matchAlt": "ELEM",
+    "param": "number",
+    "reminder": "",
+    "reminderBare": "",
+    "dmgKind": "class",
+    "dmgClass": []
    }
   ],
   "cardLook": {
