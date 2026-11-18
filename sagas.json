@@ -1,5 +1,13 @@
 [
  {
+  "id": "Core Essence",
+  "name": "Core Essence",
+  "author": "",
+  "version": "1.0",
+  "description": "",
+  "cardCount": 1
+ },
+ {
   "id": "Test",
   "name": "Test",
   "author": "",

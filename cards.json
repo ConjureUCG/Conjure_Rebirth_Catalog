@@ -3,8 +3,8 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 86,
-  "keywordCount": 37,
+  "cardCount": 87,
+  "keywordCount": 44,
   "lookSlots": 0,
   "markCount": 0,
   "markPrint": "2:3hnx9",
@@ -1817,7 +1817,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-17",
+   "lastUpdated": "2026-11-18",
    "cid": "c1lbvofv1is4n5d",
    "rarity": "uncommon"
   },
@@ -3298,7 +3298,7 @@
    "attack": "",
    "health": "",
    "arcane": "25",
-   "ruleText": "Each other Character loses AP equal to your LVL.",
+   "ruleText": "Loud\nEach other Character loses AP equal to your LVL.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5865,6 +5865,60 @@
    "lastUpdated": "2026-11-18",
    "range": "",
    "rarity": "superior"
+  },
+  {
+   "id": "cmwmmr07l67fkq",
+   "name": "Carried by Wind",
+   "manaCost": "Y/BY/BY/B1",
+   "cmc": "4",
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Zephyr",
+    "Wizard"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Slow — 10 MP: You become Airborne.\nAt the start of each round you may spend 5 MP to remain Airborne if you are already Airborne.",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2026",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwmmr07m9bkgg1zi2b1j",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-18",
+   "frame": "vr"
   }
  ],
  "look": null,

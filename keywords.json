@@ -62,14 +62,58 @@
   "__alias": true
  },
  {
-  "name": "Exhasut",
+  "name": "Fatigued",
   "mode": "keyword",
-  "match": "Exhaust",
-  "reminder": "",
-  "reminderBare": "",
+  "match": "Fatigued",
+  "reminder": "Fatigued — Start their turn with 1 less AP.",
+  "reminderBare": "Exhaust — Start their turn with (Value) less AP.",
   "param": "number",
   "__custom": true,
   "__id": "kwc_cmwmma8dy640x6"
+ },
+ {
+  "name": "Fatigued",
+  "mode": "keyword",
+  "match": "Fatigued",
+  "reminder": "Fatigued — Start their turn with 1 less AP.",
+  "reminderBare": "Exhaust — Start their turn with (Value) less AP.",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwmma8dy640x6",
+  "__alias": true
+ },
+ {
+  "name": "Fatigued",
+  "mode": "keyword",
+  "match": "Fatigue",
+  "reminder": "Fatigued — Start their turn with 1 less AP.",
+  "reminderBare": "Exhaust — Start their turn with (Value) less AP.",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwmma8dy640x6",
+  "__alias": true
+ },
+ {
+  "name": "Fatigued",
+  "mode": "keyword",
+  "match": "Fatigue (Value)",
+  "reminder": "Fatigued — Start their turn with 1 less AP.",
+  "reminderBare": "Exhaust — Start their turn with (Value) less AP.",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwmma8dy640x6",
+  "__alias": true
+ },
+ {
+  "name": "Fatigued",
+  "mode": "keyword",
+  "match": "Fatigued (Value)",
+  "reminder": "Fatigued — Start their turn with 1 less AP.",
+  "reminderBare": "Exhaust — Start their turn with (Value) less AP.",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwmma8dy640x6",
+  "__alias": true
  },
  {
   "name": "Wind",
@@ -557,6 +601,37 @@
   "dmgKind": "class",
   "dmgClass": [],
   "matchAlt": "ELEM",
+  "__alias": true
+ },
+ {
+  "name": "Airborne",
+  "mode": "keyword",
+  "match": "Airborne",
+  "reminder": "Airborne — While Airborne, ignore terrain and can’t be hit by or use Melee Rg.",
+  "reminderBare": "",
+  "param": "none",
+  "__custom": true,
+  "__id": "kwc_cmwmmvr8pyrd0v"
+ },
+ {
+  "name": "Exhaust",
+  "mode": "keyword",
+  "match": "Exhaust",
+  "reminder": "Exhaust — You can't use this card or ability until your next Long Recovery.",
+  "reminderBare": "",
+  "param": "none",
+  "__custom": true,
+  "__id": "kwc_cmwmncr9hklokz"
+ },
+ {
+  "name": "Exhaust",
+  "mode": "keyword",
+  "match": "Exhaust",
+  "reminder": "Exhaust — You can't use this card or ability until your next Long Recovery.",
+  "reminderBare": "",
+  "param": "none",
+  "__custom": true,
+  "__id": "kwc_cmwmncr9hklokz",
   "__alias": true
  }
 ]
