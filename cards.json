@@ -3,7 +3,7 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 87,
+  "cardCount": 91,
   "keywordCount": 44,
   "lookSlots": 0,
   "markCount": 0,
@@ -46,15 +46,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1632.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -118,12 +118,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8aghf08j6",
-   "cid": "c05f45v30yf97uh",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nfdn9wy73d003e",
+   "id": "cmwmzdkzot8lr2"
   },
   {
    "name": "Vig Essence",
@@ -160,15 +157,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1591.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -232,12 +229,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8aghlvcol",
-   "cid": "c0gf51101rdq4y6",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nfzo1kkxk14yja",
+   "id": "cmwmzdkzo1zft2"
   },
   {
    "name": "Ire Essence",
@@ -274,15 +268,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1651.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -346,12 +340,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8aghm93ij",
-   "cid": "c1d2q6321i2fwly",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nfitqc01rq7zpt",
+   "id": "cmwmzdkzmk15a9"
   },
   {
    "name": "Arch Essence",
@@ -388,15 +379,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1661.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -460,12 +451,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8aghiloxi",
-   "cid": "c0880x2k0if0x30",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nfgrza7fwymj9v",
+   "id": "cmwmzdkzkgg6qj"
   },
   {
    "name": "Lux Essence",
@@ -502,15 +490,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1685.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -574,12 +562,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8agh4inb9",
-   "cid": "c1v8g7ev0qhrde1",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nf06ezefbujwfk",
+   "id": "cmwmzdkzneyx20"
   },
   {
    "name": "Psy Essence",
@@ -616,15 +601,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1693.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -688,12 +673,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8aghmbgps",
-   "cid": "c0w8e6oa0qafryo",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nfwyvfmsguksca",
+   "id": "cmwmzdkzn20dx6"
   },
   {
    "name": "Gris Essence",
@@ -730,15 +712,15 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Switch 1 card in your Hand with 1 card you’ve Crystallized.\nCrystallize: Dual Vig Essence, it arrives locked.",
-   "flavor": "\"If we stop them at this point, we might be able to cut off their supplies...\"",
+   "ruleText": "",
+   "flavor": "",
    "imageUrl": "https://cdn.jsdelivr.net/gh/ConjureUCG/Conjure_Rebirth_Catalog@main/art/art_1688.webp",
    "art": "",
-   "saga": "Venture",
+   "saga": "Core Essence",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
-   "lastUpdated": "2026-11-18",
+   "designer": "Conjure UCG LLC 2027",
+   "lastUpdated": "2026-11-19",
    "variants": [
     {
      "id": "v1",
@@ -802,12 +784,9 @@
     }
    ],
    "variant": "v1",
-   "sagaId": "Venture",
-   "id": "cmudc8agh5ost1",
-   "cid": "c0psapvn122hapn",
-   "sagaIds": [
-    "Venture"
-   ]
+   "sagaId": "Core Essence",
+   "cid": "cmwmzc4nfzy87ckyrh7pv",
+   "id": "cmwmzdkzmefepz"
   },
   {
    "id": "cmtypd90x0lpuy",
@@ -835,7 +814,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -857,7 +836,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rulesSplit": 2,
    "sections": [
     {
@@ -900,13 +879,13 @@
    "health": "",
    "arcane": "25",
    "range": "6",
-   "ruleText": "Main-Hand\nMA\nDefault attack costs 10 MP.\n\nOff-Hand\n+1 Rg to Spells you cast.",
+   "ruleText": "Main-Hand\nMA 1\nDefault attack costs 10 MP.\n\nOff-Hand\n+1 Rg to Spells you cast.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -928,11 +907,11 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\nMA\nDefault attack costs 10 MP.",
+     "text": "Main-Hand\nMA 1\nDefault attack costs 10 MP.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -974,13 +953,13 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main-Hand\nPI\n+1 Melee Rg\n\nOff-Hand\n+1 ATK",
+   "ruleText": "Main-Hand\nPI 1\n+1 Melee Rg\n\nOff-Hand\n+1 ATK",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1002,11 +981,11 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\nPI\n+1 Melee Rg",
+     "text": "Main-Hand\nPI 1\n+1 Melee Rg",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -1048,13 +1027,13 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main-Hand\nPI\nWhenever you kill a Character, you can use a free Default attack.\n\nOff-Hand\n+1 ATK",
+   "ruleText": "Main-Hand\nSL 1\nWhenever you kill a Character, you can use a free Default attack.\n\nOff-Hand\n+1 ATK",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1076,10 +1055,10 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sections": [
     {
-     "text": "Main-Hand\nPI\nWhenever you kill a Character, you can use a free Default attack.",
+     "text": "Main-Hand\nSL 1\nWhenever you kill a Character, you can use a free Default attack.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -1121,13 +1100,13 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Main-Hand\nSL\n+2 ATK\n\nOff-Hand\nOnce per Battle, you may use a free Default attack at Quick speed.",
+   "ruleText": "Main-Hand\nSL 1\n+2 ATK\n\nOff-Hand\nOnce per Battle, you may use a free Default attack at Quick speed.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1149,10 +1128,10 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sections": [
     {
-     "text": "Main-Hand\nSL\n+2 ATK",
+     "text": "Main-Hand\nSL 1\n+2 ATK",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -1191,13 +1170,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Once per Battle you may Consume a Consumable to recover 2x MP or 3x HP equal to its AP cost.\n\nFor each Battle you do not, lose 2 Max MP and 3 Max HP until your next Long Recovery.\n\n<i>You must eat...</i>",
-   "flavor": "",
+   "ruleText": "Once per Battle you may Consume a Consumable to recover 2x MP or 3x HP equal to its AP cost.\nFor each Battle you do not, lose 2 Max MP and 3 Max HP until your next Long Recovery.",
+   "flavor": "You must eat...",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1219,7 +1198,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "green"
    ],
@@ -1293,13 +1272,13 @@
    "health": "",
    "arcane": "",
    "range": "M",
-   "ruleText": "Two-Handed\nBL\nQuick, 10 Rg - {R}{R}{2}: Another target Character gains {R} AP during their next turn.\n\nSlow, 6 Rg - {R}{1}: Another target Character gains {1} AP this turn.",
+   "ruleText": "Two-Handed\nBL 1\nQuick, 10 Rg - {R}{R}{2}: Another target Character gains {R} AP during their next turn.\n\nSlow, 6 Rg - {R}{1}: Another target Character gains {1} AP this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1321,7 +1300,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c1ldlrxe01cjanq",
    "rarity": "fine",
    "sagaIds": [
@@ -1354,7 +1333,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1376,7 +1355,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c106sbjj0vedd63",
    "rarity": "uncommon",
    "sagaIds": [
@@ -1399,13 +1378,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Seabound</i>\n\nYou move your Movement while Swimming.\n\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Movement.",
+   "ruleText": "<i>Requires: Seabound</i>\n\nIgnore Swimming Move restrictions.\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Move.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1427,7 +1406,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "holo": {
     "image": {
      "set": "none",
@@ -1474,13 +1453,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Whenever you Heal a Character, Heal an additional LVL HP.\n\nYou can't use the Default attack ability.\n\nYou can't play cards that deal damage.",
+   "ruleText": "Whenever you Heal a Character, Heal an additional LVL HP.\nYou can't use the Default attack ability.\nYou can't play cards that deal damage.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1502,7 +1481,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "yellow"
    ],
@@ -1559,7 +1538,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "c10sme360d617h0",
@@ -1582,7 +1561,7 @@
     }
    ],
    "rarity": "uncommon",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sagaIds": [
     "Venture"
    ]
@@ -1613,7 +1592,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "c0ryoymo064fp9g",
@@ -1636,7 +1615,7 @@
     }
    ],
    "rarity": "common",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sagaIds": [
     "Venture"
    ]
@@ -1664,7 +1643,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1686,7 +1665,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c1dhmdvk11qiq3u",
    "rarity": "mythic",
    "sagaIds": [
@@ -1709,13 +1688,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "The first Spell you play each turn costs LVL MP less to play.\n\nYou swim at 1/2 speed instead of 1/3.\n\nYou can't cast Spells with MP cost greater than 5x your LVL.\n\n<i>You are bound to the sea's bounty...</i>",
-   "flavor": "",
+   "ruleText": "The first Spell you play each turn costs LVL MP less to play.\nYou swim at 1/2 speed instead of 1/3.\nYou can't cast Spells with MP cost greater than 5x your LVL.",
+   "flavor": "You are bound to the sea's bounty.",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1737,7 +1716,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "holo": {
     "image": {
      "set": "none",
@@ -1766,7 +1745,8 @@
    "cid": "c0smmhta04cy0be",
    "sagaIds": [
     "Venture"
-   ]
+   ],
+   "flavorRows": ""
   },
   {
    "id": "cmtypd90yblubt",
@@ -1793,9 +1773,9 @@
    "flavor": "",
    "saga": "Test",
    "sagaId": "Test",
-   "revision": "",
+   "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1817,7 +1797,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c1lbvofv1is4n5d",
    "rarity": "uncommon"
   },
@@ -1837,13 +1817,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Stout</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\n\nWhenever you cast a Spell, you lose -1 Move this round.",
+   "ruleText": "<i>Requires: Stout</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\nWhenever you cast a Spell, you lose -1 Move this round.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1865,7 +1845,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "holo": {
     "image": {
      "set": "none",
@@ -1924,7 +1904,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1946,7 +1926,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c0jwzl7x0prad0p",
    "rarity": "uncommon",
    "sagaIds": [
@@ -1969,13 +1949,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nAs long as you are Airborne, you gain +1 Move.\n\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
+   "ruleText": "<i>Requires: Weaver</i>\n\nAs long as you are Airborne, you gain +1 Move.\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -1997,7 +1977,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "yellow",
     "violet"
@@ -2045,13 +2025,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "The first time you perform a Default attack each Battle, instead deal double that much damage instead.\n\nThe first time you damage an enemy Character each Battle, you can't attack any other Characters until that first Character has died.",
+   "ruleText": "The first time you perform a Default attack each Battle, instead deal double that much damage instead.\nThe first time you damage an enemy Character each Battle, you can't attack any other Characters until that first Character has died.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2073,7 +2053,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c1uqtd0a194tumk",
    "sagaIds": [
     "Venture"
@@ -2101,13 +2081,13 @@
    "health": "35",
    "arcane": "",
    "range": "M",
-   "ruleText": "Whenever this Character deals damage, it gains +1 Move this round.\n\nThe first time this card deals damage to another Character each Battle, instead it deals double that much damage.",
+   "ruleText": "Whenever this Character deals damage, it gains +1 Move this round.\nThe first time this card deals damage to another Character each Battle, instead it deals double that much damage.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "c1t8i2gp1t0eb11",
@@ -2130,7 +2110,7 @@
     }
    ],
    "rarity": "fine",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sagaIds": [
     "Venture"
    ]
@@ -2151,13 +2131,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "You may use Two-Handed Armament as if they were Single-Handed.\n\nAny noise you make is increased by +1 Noise Level.\n\n<i>Walking like a risen Old God...</i>",
-   "flavor": "",
+   "ruleText": "You may use Two-Handed Armament as if they were Single-Handed.\nAny noise you make is increased by +1 Noise Level.",
+   "flavor": "Walking like a risen Old God...",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2179,7 +2159,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "orange"
    ],
@@ -2237,7 +2217,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2259,7 +2239,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c07ltlqg1y4u6qi",
    "rarity": "uncommon",
    "sagaIds": [
@@ -2285,13 +2265,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Spells cost {1} more to target you.\n\nSlow, 4 Rg — {1}: Move this card to another target Character until the end of Battle.",
+   "ruleText": "Spells cost {1} more to target you.\nSlow, 4 Rg — {1}: Move this card to another target Character until the end of Battle.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2313,7 +2293,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c0519coo0mh2lx0",
    "rarity": "fine",
    "sagaIds": [
@@ -2336,13 +2316,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Maw</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\n\nIf you didn't Heal during a Battle, lose LVL HP.",
+   "ruleText": "<i>Requires: Maw</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\nIf you didn't Heal during a Battle, lose LVL HP.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2364,7 +2344,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "green"
    ],
@@ -2422,7 +2402,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2443,7 +2423,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "cid": "c05m0tos1q9gug6",
    "rarity": "uncommon",
@@ -2465,13 +2445,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "At the start of each round, if you are not next to a Character, you gain +1 Move this round.\n\nAt the start of each round, if you are next to a Character, you gain -1 Move this round.\n\n<i>\"Wandering in search of a home you're never fit for. Homesick for a place that never existed.\"</i>",
-   "flavor": "",
+   "ruleText": "At the start of each round, if you are not next to a Character, you gain +1 Move this round.\nAt the start of each round, if you are next to a Character, you gain -1 Move this round.",
+   "flavor": "\"Wandering in search of a home you're never fit for. Homesick for a place that never existed.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2493,7 +2473,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "holo": {
     "image": {
      "set": "none",
@@ -2523,7 +2503,8 @@
    "cid": "c01nb19b0yxpt3n",
    "sagaIds": [
     "Venture"
-   ]
+   ],
+   "flavorRows": 4
   },
   {
    "id": "cmtypd90yteyqa",
@@ -2552,7 +2533,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2573,7 +2554,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c16dvff81607vw0",
    "borderLook": {
     "frameColor": null
@@ -2596,23 +2577,23 @@
     "Pyro",
     "Mace"
    ],
-   "attack": "",
+   "attack": "1",
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Single-Handed\n\nQuick - {2}: Roll D4, you gain +X Lightsource for X turns, where X is the result if the Dice roll.\n\nSlow - {R}: You gain +D4 ATK until the next time you deal damage this Battle. This ability does not stack, but higher rolls replace lower rolls.",
+   "ruleText": "Single-Handed\n\nFI 1\nQuick - {2}: Roll D4, you gain +X Lightsource for X turns, where X is the result if the Dice roll.\n\nSlow - {R}: You gain +D4 ATK until the next time you deal damage this Battle. This ability does not stack, but higher rolls replace lower rolls.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "attack",
+     "value": "1"
     },
     {
      "type": "hidden",
@@ -2628,7 +2609,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c0eiufbk18h57ky",
    "rarity": "common",
    "sagaIds": [
@@ -2661,7 +2642,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2683,7 +2664,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c1g1pefk0y33q5m",
    "rarity": "uncommon",
    "sagaIds": [
@@ -2706,13 +2687,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "You gain +1 Move.\n\nWhenever a Character dies within Eyesight, you lose {1} AP during your next turn.\n\n<i>You see the dead...</i>",
-   "flavor": "",
+   "ruleText": "+1 Move\nWhenever a Character dies within Eyesight, you become Fatigued.",
+   "flavor": "You see dead people...",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2734,7 +2715,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "yellow",
     "violet"
@@ -2782,13 +2763,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "You gain 2x MP per LVL allotment.\n\nYou can only cast 1 Spell from your Hand a round, and use 1 Ongoing Spell at a time.\n\nYou Swim at 1sq per Movement, instead of 1/3 speed.\n\n<i>Your body holds mana like a metal cage...</i>",
-   "flavor": "",
+   "ruleText": "You gain 2x MP per LVL allotment.\nYou can only cast 1 Spell a round, and only use 1 Ongoing Spell.\nYou Swim at 1sq per Move, instead of 1/3 speed.",
+   "flavor": "\"Your body holds mana like a metal cage.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -2810,7 +2791,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frameColor": [
     "red",
     "yellow"
@@ -2840,7 +2821,8 @@
    "cid": "c1kxuk580kx509u",
    "sagaIds": [
     "Venture"
-   ]
+   ],
+   "flavorRows": ""
   },
   {
    "id": "cmwk191r1rs6k0",
@@ -2872,7 +2854,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwk191r1r6cxf56r9v7p",
@@ -2895,7 +2877,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rarity": "rare"
   },
   {
@@ -2928,7 +2910,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwk1atdio7d46ebg3gwm",
@@ -2951,7 +2933,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rarity": "fine"
   },
   {
@@ -2971,7 +2953,7 @@
    "attack": "",
    "health": "",
    "arcane": "50",
-   "ruleText": "Deal 1 damage to any Character. Make a HC against that Character. If you succeed, kill that Character.",
+   "ruleText": "Deal NE 1 damage to any Character. Make a HC against that Character. If you succeed, kill that Character.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -2980,7 +2962,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwk1ce4kfk4np889h491",
@@ -3002,7 +2984,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "range": "E",
    "rarity": "fine"
   },
@@ -3034,7 +3016,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwk1fz8z4z62ebklgfvf",
@@ -3056,7 +3038,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "fine"
   },
@@ -3080,7 +3062,7 @@
    "attack": "ATK",
    "health": "",
    "arcane": "",
-   "ruleText": "Two-Handed\nBL\n+1 ATK.\nOnce Per Long Rest - You can make a Lock Check + your ATK (<i>Loud</i>).",
+   "ruleText": "Two-Handed\nBL 1\n+1 ATK.\nOnce Per Long Rest - You can make a Lock Check + your ATK (<i>Loud</i>).",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -3089,7 +3071,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwk1jhony9rzw0audhox",
@@ -3118,7 +3100,7 @@
     "r": 0,
     "f": 1
    },
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "range": "M",
    "rarity": "uncommon"
@@ -3143,7 +3125,7 @@
    "attack": "LVL",
    "health": "",
    "arcane": "75",
-   "ruleText": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\n\n\n{Y}: The next Character you deal damage to can't cast Spells until the start of their next turn.\n\n\n{B/I}: The next Character you deal damage to also loses MP equal to the damage deal to them this turn.",
+   "ruleText": "PS 1\nSpells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\n\n\n{Y}: The next Character you deal damage to can't cast Spells until the start of their next turn.\n\n\n{B/I}: The next Character you deal damage to also loses MP equal to the damage deal to them this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -3152,7 +3134,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwk1xg1078smshb31670",
@@ -3174,13 +3156,13 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "range": "7",
    "rulesSplit": 3,
    "sections": [
     {
-     "text": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\n",
+     "text": "PS 1\nSpells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\n",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -3207,7 +3189,7 @@
   },
   {
    "id": "cmwkj662ygwus7",
-   "name": "Pet Familiar",
+   "name": "Beast Friend",
    "manaCost": "",
    "cmc": "",
    "colors": [],
@@ -3218,8 +3200,8 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Choose a Beast Character with Mana Cost 1. You may use that card without paying its Mana Cost.\n(<i>You can only choose once.</i>)\n<i>You don't know what you would do if something ever happened to your best friend.</i>",
-   "flavor": "",
+   "ruleText": "Choose a Beast Character with Mana Cost 1. You may use that card without paying its Mana Cost.\n(<i>You can only choose once.</i>)",
+   "flavor": "You don't know what you would do if something ever happened to your best friend.",
    "saga": "Venture",
    "sagaId": "Venture",
    "sagaIds": [
@@ -3227,7 +3209,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkj662y6mqtvsbm1xa6",
@@ -3250,7 +3232,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "orange",
@@ -3307,7 +3289,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjbqyen7rwjkyvx1ke",
@@ -3329,7 +3311,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "range": "N",
    "rarity": "fine"
   },
@@ -3360,7 +3342,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjd3vbcxw7halhrnrf",
@@ -3382,7 +3364,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "superior"
   },
@@ -3414,7 +3396,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjezu3xj46octlxohu",
@@ -3436,7 +3418,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "common"
   },
@@ -3468,7 +3450,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjfwgxz3mto8a73nx4",
@@ -3490,7 +3472,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "superior"
   },
@@ -3522,9 +3504,9 @@
    "sagaIds": [
     "Venture"
    ],
-   "revision": "",
+   "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkji7rdzthf5f7nc78x",
@@ -3546,7 +3528,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "range": "",
    "rarity": "legendary"
@@ -3579,7 +3561,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjmznaoud6ohlt0b3h",
@@ -3602,7 +3584,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "range": "",
    "rarity": "superior"
   },
@@ -3627,7 +3609,7 @@
    "attack": "",
    "health": "",
    "arcane": "15",
-   "ruleText": "Whenever you target an enemy Character with a Cryo Spell, they gain -1 Movement this round.\nWhenever you target a Character with a Zephyr Spell, move that target 1sq in any direction.",
+   "ruleText": "Whenever you target an enemy Character with a Cryo Spell, they gain -1 Move this round.\nWhenever you target a Character with a Zephyr Spell, move that target 1sq in any direction.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -3636,7 +3618,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjt00is5s35uttm3d5",
@@ -3658,7 +3640,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "range": "",
    "rarity": "uncommon"
@@ -3681,7 +3663,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "-1 Movement\nPrevent the first 2 damage dealt to you each turn.",
+   "ruleText": "Armor\n-1 Move\nPrevent the first 2 damage dealt to you each turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -3690,7 +3672,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjv989x87pcceaf4up",
@@ -3712,9 +3694,8 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
-   "rulesSplit": 2,
    "sections": [
     {
      "text": "-1 Movement\nPrevent the first 2 damage dealt to you each turn.",
@@ -3731,7 +3712,6 @@
      "subTypes": []
     }
    ],
-   "splitChoice": true,
    "choiceText": "Armor",
    "rarity": "common"
   },
@@ -3755,7 +3735,7 @@
    "attack": "ATK",
    "health": "",
    "arcane": "",
-   "ruleText": "-1 Movement\nSlow — Exhaust — {0}: This turn, your default attacks costs {1}. You can't play cards or use any other abilities this turn. You can only use this ability if it's the first ability you've used this turn.",
+   "ruleText": "PI 1\n-1 Move\nSlow — Exhaust — {0}: This turn, your default attacks costs {1}. You can't play cards or use any other abilities this turn. You can only use this ability if it's the first ability you've used this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -3764,7 +3744,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkjwx2aaml6w8dmxckg",
@@ -3787,7 +3767,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "range": "6",
    "sections": [
     {
@@ -3836,7 +3816,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkk0trsu74wi8lpvuou",
@@ -3859,7 +3839,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rarity": "common"
   },
   {
@@ -3890,7 +3870,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkk36flfop9xlpvgsz9",
@@ -3912,7 +3892,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "fine"
   },
@@ -3943,7 +3923,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkk7u597h4kvqpi0j0o",
@@ -3965,7 +3945,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "fine"
   },
@@ -3993,7 +3973,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkk8p8auxevki6c3tvs",
@@ -4015,7 +3995,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red",
@@ -4067,7 +4047,7 @@
    "attack": "ATK",
    "health": "",
    "arcane": "15",
-   "ruleText": "Main-Hand\nWhenever you deal Melee damage to an opponent, put that many Impede counters on them.\n\nOff-Hand\nWhenever you target a Character with a Spell, you may remove any number of Impede counters from them. If you do, deal that much damage to them.",
+   "ruleText": "Main-Hand\nIC 1\nWhenever you deal Melee damage to an opponent, put that many Impede counters on them.\n\nOff-Hand\nWhenever you target a Character with a Spell, you may remove any number of Impede counters from them. If you do, deal that much damage to them.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4076,7 +4056,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkkjcpsdpoor8kwz03v",
@@ -4099,11 +4079,11 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\nWhenever you deal Melee damage to an opponent, put that many Impede counters on them.",
+     "text": "Main-Hand\nIC 1\nWhenever you deal Melee damage to an opponent, put that many Impede counters on them.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -4149,7 +4129,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkktvnwq992ywnol43b",
@@ -4171,7 +4151,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "range": "",
    "rarity": "rare"
@@ -4203,7 +4183,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkkzct4g0umh18aov1r",
@@ -4226,7 +4206,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "range": "",
    "rarity": "uncommon"
   },
@@ -4249,7 +4229,7 @@
    "attack": "ATK",
    "health": "",
    "arcane": "",
-   "ruleText": "Main-Hand\nWhenever you use your Default attack, roll D4.\n4 — You deal double damage.\n1 - You deal no damage.\n\nOff-Hand\nThe first time you use your Default attack each round, you gain +D4 ATK this round.",
+   "ruleText": "Main-Hand\nSL 1\nWhenever you use your Default attack, roll D4.\n4 — You deal double damage.\n1 - You deal no damage.\n\nOff-Hand\nThe first time you use your Default attack each round, you gain +D4 ATK this round.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4258,7 +4238,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkl334biipv0bjqeu3g",
@@ -4281,11 +4261,11 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rulesSplit": 2,
    "sections": [
     {
-     "text": "Main-Hand\nWhenever you use your Default attack, roll D4.\n4 — You deal double damage.\n1 - You deal no damage.",
+     "text": "Main-Hand\nSL 1\nWhenever you use your Default attack, roll D4.\n4 — You deal double damage.\n1 - You deal no damage.",
      "name": "",
      "manaCost": "",
      "superTypes": [],
@@ -4335,7 +4315,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkl90fj9vj7v512cgb5",
@@ -4357,7 +4337,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "superior"
   },
@@ -4391,7 +4371,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwklbamqf494dd1a30gt",
@@ -4413,7 +4393,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "superior"
   },
@@ -4447,7 +4427,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkld2snw71gx669avm4",
@@ -4469,7 +4449,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "epic"
   },
@@ -4505,7 +4485,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwklfix3l4qyyxumxrcm",
@@ -4527,7 +4507,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr",
    "rarity": "fine"
   },
@@ -4555,7 +4535,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkljxgi71ymd8iwyemp",
@@ -4577,7 +4557,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rarity": "fine"
   },
   {
@@ -4604,7 +4584,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkm49toiy0jpg0thxl4",
@@ -4627,7 +4607,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red",
@@ -4672,7 +4652,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\nThe first time you damage a Character with a Spell each round, gain 1 {V} AP.\nWhenever you see a Character die, lose 5 HP.",
+   "ruleText": "<i>Requires: Weaver</i>\n\nThe first time you damage a Character with a Spell each round, gain 1 {V} AP.\nWhenever you see a Character die, lose 5 HP.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4681,7 +4661,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkm81mku9oq1j41n25a",
@@ -4704,7 +4684,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "violet"
@@ -4757,7 +4737,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmalc0sjp0uoi4lze6",
@@ -4780,7 +4760,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red",
@@ -4834,7 +4814,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmds2vrkp74xmrp7ir",
@@ -4857,7 +4837,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red",
@@ -4911,7 +4891,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmewclud0r2lpq5719",
@@ -4934,7 +4914,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red",
@@ -4979,7 +4959,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\nThe first time you Heal a Character each round, gain 1 {Y} AP.\nWhenever you see a Character die, lose 5 HP.\n",
+   "ruleText": "<i>Requires: Weaver</i>\n\nThe first time you Heal a Character each round, gain 1 {Y} AP.\nWhenever you see a Character die, lose 5 HP.\n",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4988,7 +4968,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmhlo7409qgjbc1hy4",
@@ -5011,7 +4991,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "yellow"
@@ -5055,7 +5035,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\nFocus — MP 2, {B}: The next Spell you play gains +1 Rg. (<i>This stacks.</i>)",
+   "ruleText": "<i>Requires: Weaver</i>\n\nFocus — MP 2, {B}: The next Spell you play gains +1 Rg. (<i>This stacks.</i>)",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5064,7 +5044,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmjz3p53y49tjnzj6i",
@@ -5087,7 +5067,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "blue",
@@ -5132,7 +5112,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Stout</i>\nMace — You can make {R} Handling checks against Object Characters. If you succeeded, kill that Character.\nMace — {R}: You gain +1 ATK this turn.",
+   "ruleText": "<i>Requires: Stout</i>\n\nMace — You can make {R} Handling checks against Object Characters. If you succeeded, kill that Character.\nMace — {R}: You gain +1 ATK this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5141,7 +5121,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmls7ibtpdl3rjrfbx",
@@ -5164,7 +5144,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red"
@@ -5215,7 +5195,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlegrn6mh3j5pjef42w",
@@ -5237,7 +5217,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "artXf": {
     "z": 1,
     "x": 0,
@@ -5266,8 +5246,8 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Exhaust — You automatically succeed a Handling Check.\nYou gain-2 Movement.",
-   "flavor": "",
+   "ruleText": "Exhaust — You automatically succeed a Handling Check.\nGain -2 Move",
+   "flavor": "Your knees just don't work like they used to.",
    "saga": "Venture",
    "sagaId": "Venture",
    "sagaIds": [
@@ -5275,7 +5255,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlejrptiolbr3jig909",
@@ -5297,7 +5277,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "artXf": {
     "z": 1,
     "x": 0,
@@ -5326,7 +5306,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Noise you make is decreased by 1 level.\nYour Character may be thrown as a Large throwable.\nYou gain -1 Movement.",
+   "ruleText": "Noise you make is decreased by 1 level.\nYou may be thrown as a Large throwable.\n-1 Move",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5335,7 +5315,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlekzbbwo05ftr90vvz",
@@ -5357,7 +5337,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "artXf": {
     "z": 1,
     "x": 0,
@@ -5395,7 +5375,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -5417,7 +5397,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sections": [
     {
      "text": "Main-Hand\nPI\n+1 Melee Rg",
@@ -5461,13 +5441,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Accessory\nExhaust — {1}: Target Character gains Resistance to ELEM Damage this turn.",
+   "ruleText": "Accessory\nExhaust — {1}: Target Character gains Resistance to ELEM 1 Damage this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -5489,7 +5469,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sections": [
     {
      "text": "Main-Hand\nPI\n+1 Melee Rg",
@@ -5533,13 +5513,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Accessory\nExhaust — {1}: Target Character gains Resistance to PHYS Damage this turn.",
+   "ruleText": "Accessory\nExhaust — {1}: Target Character gains Resistance to PHYS 1 Damage this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -5561,7 +5541,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sections": [
     {
      "text": "Main-Hand\nPI\n+1 Melee Rg",
@@ -5605,13 +5585,13 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "Accessory\nExhaust — {1}: Target Character gains Resistance to MYST Damage this turn.",
+   "ruleText": "Accessory\nExhaust — {1}: Target Character gains Resistance to MYST 1 Damage this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -5633,7 +5613,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "sections": [
     {
      "text": "Main-Hand\nPI\n+1 Melee Rg",
@@ -5684,7 +5664,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlewrr3c5hfgfm8ii4w",
@@ -5706,8 +5686,8 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
-   "rarity": "uncommon"
+   "lastUpdated": "2026-11-19",
+   "rarity": "superior"
   },
   {
    "id": "cmwlfdqi0jsbxc",
@@ -5735,7 +5715,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlfdqi0eaqtcqmhol7u",
@@ -5757,7 +5737,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rarity": "uncommon"
   },
   {
@@ -5787,7 +5767,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlfeamvnvpyx0f0xx5y",
@@ -5809,7 +5789,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "rarity": "uncommon"
   },
   {
@@ -5840,7 +5820,7 @@
    ],
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwlfg5ansg7wwbkghm0g",
@@ -5862,7 +5842,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "range": "",
    "rarity": "superior"
   },
@@ -5893,9 +5873,9 @@
    "sagaIds": [
     "Core Essence"
    ],
-   "revision": "",
+   "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwmmr07m9bkgg1zi2b1j",
@@ -5917,8 +5897,221 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "frame": "vr"
+  },
+  {
+   "id": "cmwmojjwjmyxy3",
+   "name": "Growing Illspring",
+   "manaCost": "I",
+   "cmc": "1",
+   "colors": [
+    "indigo"
+   ],
+   "superTypes": [
+    "Spell",
+    "Quick"
+   ],
+   "subTypes": [
+    "Void",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Target Character takes double damage from the damage type of your choice this Turn.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwmojjwkmz6sd8v1cjyq",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-19",
+   "rarity": "uncommon"
+  },
+  {
+   "id": "cmwmom3x8mapd7",
+   "name": "Abolishing Mire",
+   "manaCost": "I",
+   "cmc": "1",
+   "colors": [
+    "indigo"
+   ],
+   "superTypes": [
+    "Spell"
+   ],
+   "subTypes": [
+    "Void",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Target Character takes double damage from the damage type of your choice this Round.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwmom3x8hgnqf1tem5nm",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-19",
+   "rarity": "uncommon"
+  },
+  {
+   "id": "cmwmook7ar2tvs",
+   "name": "Ruinous Crown",
+   "manaCost": "III",
+   "cmc": "3",
+   "colors": [
+    "indigo"
+   ],
+   "superTypes": [
+    "Spell"
+   ],
+   "subTypes": [
+    "Void",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Target Character takes double damage from the damage type of your choice this Battle.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwmook7a59e72dy03a0y",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-19",
+   "rarity": "superior"
+  },
+  {
+   "id": "cmwmov8blx8xom",
+   "name": "By Lunar Light",
+   "manaCost": "YBI",
+   "cmc": "3",
+   "colors": [
+    "yellow",
+    "blue",
+    "indigo"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Esper",
+    "Shaman",
+    "Cleric"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\nThe first Character you target each round loses MP equal to the damage dealt to them and can't cast Spells until the start of their next turn.",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwmov8blr3ljxuvpc1m3",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-19"
   }
  ],
  "look": null,

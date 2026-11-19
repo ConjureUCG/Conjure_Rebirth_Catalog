@@ -103,31 +103,31 @@
     "o": "#7d5454",
     "oh": "#ea9999",
     "f": "#323232",
-    "fh": "#afafaf",
+    "fh": "#ea9999",
     "t": "#ffffff",
     "shape": "box",
     "hl": "silver",
-    "w": 1.5
+    "w": 3
    },
    "Pierce": {
     "o": "#9b8c5f",
     "oh": "#ffe599",
-    "f": "#323232",
-    "fh": "#afafaf",
+    "f": "#333333",
+    "fh": "#ffe599",
     "t": "#ffffff",
     "shape": "box",
     "hl": "silver",
-    "w": 1.5
+    "w": 3
    },
    "Blunt": {
     "o": "#4d5b75",
     "oh": "#a4c2f4",
     "f": "#323232",
-    "fh": "#afafaf",
+    "fh": "#a4c2f4",
     "t": "#ffffff",
     "shape": "box",
     "hl": "silver",
-    "w": 1.5
+    "w": 3
    },
    "Physical": {
     "o": "#ffffff",
@@ -137,7 +137,7 @@
     "t": "#000000",
     "shape": "dpoint",
     "hl": "silver",
-    "w": 1.5
+    "w": 3
    },
    "Elemental": {
     "o": "#6ebace",
@@ -147,17 +147,17 @@
     "t": "#ffffff",
     "shape": "dpoint",
     "hl": "irid",
-    "w": 1.5
+    "w": 3
    },
    "Mystic": {
-    "o": "#9c69ce",
-    "oh": "#d4d0f0",
-    "f": "#e6d0f0",
-    "fh": "#7a69ce",
+    "o": "#1100ff",
+    "oh": "#ff00ff",
+    "f": "#0033ff",
+    "fh": "#d400ff",
     "t": "#ffffff",
     "shape": "dpoint",
-    "hl": "verdigris",
-    "w": 1.5
+    "hl": "platinum",
+    "w": 3
    },
    "Fire": {
     "o": "#4d0000",
@@ -167,7 +167,7 @@
     "t": "#ffffff",
     "shape": "box",
     "hl": "fiery",
-    "w": 1.5
+    "w": 3
    },
    "Lightning": {
     "o": "#b89000",
@@ -177,17 +177,17 @@
     "t": "#ffffff",
     "shape": "box",
     "hl": "electric",
-    "w": 1.5
+    "w": 3
    },
    "Earth": {
-    "o": "#159d25",
-    "oh": "#806c2d",
-    "f": "#806c2d",
-    "fh": "#159d25",
+    "o": "#645611",
+    "oh": "#ddbd55",
+    "f": "#785d11",
+    "fh": "#039900",
     "t": "#ffffff",
     "shape": "box",
     "hl": "earthen",
-    "w": 1.5
+    "w": 3
    },
    "Magic": {
     "o": "#351c75",
@@ -242,22 +242,22 @@
    "Ice": {
     "o": "#1155cc",
     "oh": "#c8cedb",
-    "f": "#1155cc",
+    "f": "#002d7a",
     "fh": "#ccdeff",
     "t": "#ffffff",
     "shape": "box",
     "hl": "lunar",
-    "w": 1.5
+    "w": 3
    },
    "Wind": {
     "o": "#4c00ff",
-    "oh": "#8b72c5",
-    "f": "#8b72c5",
+    "oh": "#2942ff",
+    "f": "#a79cbf",
     "fh": "#4c00ff",
     "t": "#ffffff",
     "shape": "box",
     "hl": "ghost",
-    "w": 1.5
+    "w": 3
    },
    "Water": {
     "o": "#58606f",
@@ -267,7 +267,7 @@
     "t": "#ffffff",
     "shape": "box",
     "hl": "frozen",
-    "w": 1.5
+    "w": 3
    },
    "Psychic": {
     "o": "#741b47",
@@ -327,7 +327,7 @@
     "t": "#000000",
     "shape": "box",
     "hl": "fiery",
-    "w": 1.5
+    "w": 3
    }
   },
   "pillsOn": true,

@@ -30,7 +30,7 @@
    "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "ConjureUCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -52,7 +52,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c0ckno0j0tiu831",
    "testing": 1,
    "sagaIds": [
@@ -79,9 +79,9 @@
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
-   "revision": "",
+   "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "orbs": [
@@ -103,7 +103,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "cid": "c127ahw81wscxbq",
    "testing": 1,
    "sagaIds": [
@@ -132,9 +132,9 @@
    "sagaIds": [
     "Venture"
    ],
-   "revision": "",
+   "revision": "1.0",
    "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2026",
+   "designer": "Conjure UCG LLC 2027",
    "imageUrl": "",
    "art": "",
    "cid": "cmwkmd3cvargzopv37nm0",
@@ -157,7 +157,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-18",
+   "lastUpdated": "2026-11-19",
    "borderLook": {
     "frameColor": [
      "red",
