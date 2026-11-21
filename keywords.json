@@ -633,5 +633,25 @@
   "__custom": true,
   "__id": "kwc_cmwmncr9hklokz",
   "__alias": true
+ },
+ {
+  "name": "Focus",
+  "mode": "keyword",
+  "match": "Focus",
+  "reminder": "Focus — This effect lasts until you take damage or are targeted.",
+  "reminderBare": "",
+  "param": "none",
+  "__custom": true,
+  "__id": "kwc_cmwql0buvexxc6"
+ },
+ {
+  "name": "Expend",
+  "mode": "keyword",
+  "match": "Expend",
+  "reminder": "Expend — Only use this ability once a Battle.",
+  "reminderBare": "",
+  "param": "none",
+  "__custom": true,
+  "__id": "kwc_cmwqlgqjp15zpt"
  }
 ]

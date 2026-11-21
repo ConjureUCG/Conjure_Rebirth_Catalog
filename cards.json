@@ -3,8 +3,8 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 97,
-  "keywordCount": 44,
+  "cardCount": 111,
+  "keywordCount": 46,
   "lookSlots": 0,
   "markCount": 0,
   "markPrint": "2:3hnx9",
@@ -1171,7 +1171,7 @@
    "arcane": "",
    "range": "",
    "ruleText": "Once per Battle you may Consume a Consumable to recover 2x MP or 3x HP equal to its AP cost.\nFor each Battle you do not, lose 2 Max MP and 3 Max HP until your next Long Recovery.",
-   "flavor": "You must eat...",
+   "flavor": "\"You must eat...\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
@@ -1198,7 +1198,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "frameColor": [
     "green"
    ],
@@ -1378,7 +1378,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Seabound</i>\n\nIgnore Swimming Move restrictions.\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Move.",
+   "ruleText": "<i>Requires: [[Seabound]]</i>\n\nIgnore Swimming Move restrictions.\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Move.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -1406,7 +1406,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "holo": {
     "image": {
      "set": "none",
@@ -1481,7 +1481,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "frameColor": [
     "yellow"
    ],
@@ -1511,6 +1511,626 @@
    "sagaIds": [
     "Venture"
    ]
+  },
+  {
+   "id": "cmwqkfmuxphibb",
+   "name": "Druidic Neophyte",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You can make LVL 1 HCs against Beast and Plant Characters.\nYou can use up to LVL 2 Beast and Plant Characters as companions.",
+   "flavor": "\"You've learned to listen to nature, and can never ignore its words.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqkfmuxe3lk49yno73q",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "elven",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqkirsps0994",
+   "name": "Southern Druid",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Swimming Beast, Aqua Elemental, and Cryo Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the cracks of glacial consideration, showing the weakness of insurmountable challenges.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqkirspf5hlhcbvyuba",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "lunar",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwqkma2q3njvj",
+   "name": "Eastern Druid",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Hooved Beast, Horned Beast, and Geo Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the patient advice of the earth shifting below out feet.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqkma2qr7hbqpxdlw8o",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "earthen",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqwjevdjxa2n",
+   "name": "Northern Druid Dissent",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Fanged Beast, and Pyro Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the hissing of burning embers, which others have no choice but to also listen to.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqwjevdgc1d8gybpzrh",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "fiery",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqwmgruoiwmo",
+   "name": "Northern Druid Satyagrahi",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Winged Beast, and Zephyr Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the gentle guidance of the wind, as it's words are carried far and wide.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqwmgrv7mz30ewk5kep",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "ghost",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwqmk80baukr9",
+   "name": "Western Druid",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Clawed Beast, and Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to chaos of the world, grasping at the spoils of life.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqmk80b60bid2lxgc82",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "green",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "ember",
+      "a": 0.65,
+      "blend": "overlay"
+     },
+     "border": {
+      "set": "ember",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
   },
   {
    "id": "cmtypd90y6hd9u",
@@ -1689,7 +2309,7 @@
    "arcane": "",
    "range": "",
    "ruleText": "The first Spell you play each turn costs LVL MP less to play.\nYou swim at 1/2 speed instead of 1/3.\nYou can't cast Spells with MP cost greater than 5x your LVL.",
-   "flavor": "You are bound to the sea's bounty.",
+   "flavor": "\"You are bound to the sea's bounty.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
@@ -1716,7 +2336,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "holo": {
     "image": {
      "set": "none",
@@ -1797,7 +2417,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "cid": "c1lbvofv1is4n5d",
    "rarity": "uncommon"
   },
@@ -1817,7 +2437,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Stout</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\nWhenever you cast a Spell, you lose -1 Move this round.",
+   "ruleText": "<i>Requires: [[Stout]]</i>\n\nThe first time you play a Spell each Battle, you may pay its AP and MP cost an additional time. If you do, cast a copy of that Spell.\nWhenever you cast a Spell, you lose -1 Move this round.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -1845,7 +2465,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "holo": {
     "image": {
      "set": "none",
@@ -1949,7 +2569,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nAs long as you are Airborne, you gain +1 Move.\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\n\nAs long as you are Airborne, you gain +1 Move.\nThe first time each Battle you're dealt damage while Airborne, instead you are dealt double that much damage.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -1977,7 +2597,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "frameColor": [
     "yellow",
     "violet"
@@ -2132,7 +2752,7 @@
    "arcane": "",
    "range": "",
    "ruleText": "You may use Two-Handed Armament as if they were Single-Handed.\nAny noise you make is increased by +1 Noise Level.",
-   "flavor": "Walking like a risen Old God...",
+   "flavor": "\"Walking like a risen Old God...\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
@@ -2159,7 +2779,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "frameColor": [
     "orange"
    ],
@@ -2316,7 +2936,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: Maw</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\nIf you didn't Heal during a Battle, lose LVL HP.",
+   "ruleText": "<i>Requires: [[Maw]]</i>\n\nThe first time you Heal each Battle, Heal LVL HP extra.\nIf you didn't Heal during a Battle, lose LVL HP.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -2344,7 +2964,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "frameColor": [
     "green"
    ],
@@ -2688,7 +3308,7 @@
    "arcane": "",
    "range": "",
    "ruleText": "+1 Move\nWhenever a Character dies within Eyesight, you become Fatigued.",
-   "flavor": "You see dead people...",
+   "flavor": "\"You see dead people...\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "revision": "1.0",
@@ -2715,7 +3335,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "frameColor": [
     "yellow",
     "violet"
@@ -3201,7 +3821,7 @@
    "health": "",
    "arcane": "",
    "ruleText": "Choose a Beast Character with Mana Cost 1. You may use that card without paying its Mana Cost.\n(<i>You can only choose once.</i>)",
-   "flavor": "You don't know what you would do if something ever happened to your best friend.",
+   "flavor": "\"You don't know what you would do if something ever happened to your best friend.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "sagaIds": [
@@ -3232,7 +3852,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "borderLook": {
     "frameColor": [
      "orange",
@@ -4575,7 +5195,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\nFocus — MP 3, {R}: The next Spell you cast deals +1 Damage. (<i>This stacks.</i>)",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\nFocus — MP 3, {R}: The next Spell you cast deals +1 Damage. (<i>This stacks.</i>)",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4607,7 +5227,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-20",
+   "lastUpdated": "2026-11-21",
    "borderLook": {
     "frameColor": [
      "red",
@@ -4652,7 +5272,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nThe first time you damage a Character with a Spell each round, gain 1 {V} AP.\nWhenever you see a Character die, lose 5 HP.",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\n\nThe first time you damage a Character with a Spell each round, gain 1 {V} AP.\nWhenever you see a Character die, lose 5 HP.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4684,7 +5304,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-20",
+   "lastUpdated": "2026-11-21",
    "borderLook": {
     "frameColor": [
      "violet"
@@ -4959,7 +5579,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nThe first time you Heal a Character each round, gain 1 {Y} AP.\nWhenever you see a Character die, lose 5 HP.\n",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\n\nThe first time you Heal a Character each round, gain 1 {Y} AP.\nWhenever you see a Character die, lose 5 HP.\n",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4991,87 +5611,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-20",
-   "borderLook": {
-    "frameColor": [
-     "yellow"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "gold",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwof04lhn8tdk",
-   "name": "Watchful Gaurd",
-   "manaCost": "Y",
-   "cmc": "1",
-   "colors": [
-    "yellow"
-   ],
-   "superTypes": [
-    "Ongoing",
-    "Action"
-   ],
-   "subTypes": [
-    "Shield",
-    "Soldier"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "Quick — Expend, {0}: You can make a {Y} Block Check against damage being dealt to another Character in Rg M.",
-   "flavor": "",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwof04lh84jpyfpme6fq",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-20",
+   "lastUpdated": "2026-11-21",
    "borderLook": {
     "frameColor": [
      "yellow"
@@ -5115,7 +5655,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nFocus — MP 10, {I}: The next Spell you cast's damage is converted to GR 1.",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\n\nFocus — MP 10, {I}: The next Spell you cast's damage is converted to GR 1.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5147,89 +5687,11 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-20",
+   "lastUpdated": "2026-11-21",
    "borderLook": {
     "frameColor": [
      "blue",
      "violet"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "lunar",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwoe52k2kd1gt",
-   "name": "Astral Tendant",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "<i>Requires: Weaver</i>\n\nFocus — MP 2, {B}: The next Spell you cast gains +1 Rg. (<i>This stacks.</i>)",
-   "flavor": "",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwoe52k22dr0kbtky118",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-20",
-   "borderLook": {
-    "frameColor": [
-     "yellow",
-     "blue",
-     "indigo"
     ],
     "holo": {
      "image": {
@@ -5270,7 +5732,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Stout</i>\n\nMace — You can make {R} Handling checks against Object Characters. If you succeeded, kill that Character.\nMace — {R}: You gain +1 ATK this turn.",
+   "ruleText": "<i>Requires: [[Stout]]</i>\n\nMace — You can make {R} Handling checks against Object Characters. If you succeeded, kill that Character.\nMace — {R}: You gain +1 ATK this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5302,7 +5764,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-20",
+   "lastUpdated": "2026-11-21",
    "borderLook": {
     "frameColor": [
      "red"
@@ -5325,238 +5787,6 @@
      },
      "border": {
       "set": "fiery",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwoeh0ggmi26c",
-   "name": "Runehaven Scribe",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "<i>Requires: Stout</i>\n\nInstrument — You can make {O} Handling checks against Object Characters.\nInstrument — {O}, Rg LVL: Prevent the next damage dealt to another target Character this turn. (<i>This stacks.</i>)",
-   "flavor": "",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwoeh0ghfcg023abjuh0",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-20",
-   "borderLook": {
-    "frameColor": [
-     "orange",
-     "blue"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "electric",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwoeuehkh035z",
-   "name": "Shield Mother",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "<i>Requires: Female Stout</i>\n\nShield — {Y}, Rg LVL: Redirect all damage dealt from another target Character to yourself this turn. (<i>This stacks.</i>)",
-   "flavor": "\"I have lost my sons, let me return to them.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwoeuehk0dgmldkks2q5",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-20",
-   "borderLook": {
-    "frameColor": [
-     "orange",
-     "yellow"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "gold",
-      "a": 1,
-      "blend": "overlay"
-     }
-    }
-   },
-   "flavorRows": ""
-  },
-  {
-   "id": "cmwoekv38ii5ed",
-   "name": "Umber Tone Loremaster",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "<i>Requires: Stout</i>\n\nFocus — You can make {O} or {G} Handling checks against Geo Characters.\nFocus — {OG}, Rg LVL: Another target Character gains +1 ATK this turn.",
-   "flavor": "",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwoekv39ciuykq8j01q1",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-20",
-   "borderLook": {
-    "frameColor": [
-     "orange",
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "earthen",
       "a": 1,
       "blend": "multiply"
      }
@@ -5637,7 +5867,7 @@
    "health": "",
    "arcane": "",
    "ruleText": "Exhaust — You automatically succeed a Handling Check.\nGain -2 Move",
-   "flavor": "Your knees just don't work like they used to.",
+   "flavor": "\"Your knees just don't work like they used to.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "sagaIds": [
@@ -5667,7 +5897,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-21",
    "artXf": {
     "z": 1,
     "x": 0,
@@ -6562,6 +6792,935 @@
     ]
    },
    "frame": "vr"
+  },
+  {
+   "id": "cmwoe52k2kd1gt",
+   "name": "Astral Tendant",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\n\nFocus — MP 2, {B}: The next Spell you cast gains +1 Rg. (<i>This stacks.</i>)",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwoe52k22dr0kbtky118",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "blue",
+     "indigo"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "lunar",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwoeh0ggmi26c",
+   "name": "Runehaven Scribe",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Stout]]</i>\n\nInstrument — You can make {O} Handling checks against Object Characters.\nInstrument — {O}, Rg LVL: Prevent the next damage dealt to another target Character this turn. (<i>This stacks.</i>)",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwoeh0ghfcg023abjuh0",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "electric",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwoekv38ii5ed",
+   "name": "Umber Tone Loremaster",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Stout]]</i>\n\nFocus — You can make {O} or {G} Handling checks against Geo Characters.\nFocus — {OG}, Rg LVL: Another target Character gains +1 ATK this turn.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwoekv39ciuykq8j01q1",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "earthen",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwoeuehkh035z",
+   "name": "Shield Mother",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nShield — {Y}, Rg LVL: Redirect all damage dealt from another target Character to yourself this turn. (<i>This stacks.</i>)",
+   "flavor": "\"I have lost my sons, let me return to them.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwoeuehk0dgmldkks2q5",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "yellow"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "gold",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwof04lhn8tdk",
+   "name": "Watchful Gaurd",
+   "manaCost": "Y",
+   "cmc": "1",
+   "colors": [
+    "yellow"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Action"
+   ],
+   "subTypes": [
+    "Shield",
+    "Soldier"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Quick — Expend, {0}: You can make a {Y} Block Check against damage being dealt to another Character in Rg M.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwof04lh84jpyfpme6fq",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-20",
+   "borderLook": {
+    "frameColor": [
+     "yellow"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "gold",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwpqjw7bhcihs",
+   "name": "Scholar",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Literacy]]</i>\n\nExhaust — {0}: Make a Dispel Check.\nExhaust — {0}: Make a Dispel Check.\nExhaust — {0}: Gain Knowledge on a Character.\nExhaust — {0}: Gain Knowledge on a Character.",
+   "flavor": "\"You've exhausted your library's knowledge.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwpqjw7bxt02lex7im8o",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "lunar",
+      "a": 0.35,
+      "blend": "screen"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwpqtyf7zr8vx",
+   "name": "Literacy",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Exhaust — {0}: Make a LVL 1 Dispel Check.\nExhaust — {0}: Gain Knowledge on a Character.",
+   "flavor": "\"You can ready and write common tongue. But more importantly, the tongue of your homeland.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwpqtyf7alxy4epl1adk",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "blue"
+    ],
+    "holo": null
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwpqy4ksqce5t",
+   "name": "Wanted Criminal",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "You can make LVL 1 Lock Checks.",
+   "flavor": "\"You are a wanted criminal. Remain disguised or risk being recognized by law.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwpqy4kshj5ie6d5duhi",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "multiply"
+     },
+     "border": {
+      "set": "demonic",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwpr17yedbvy5",
+   "name": "Arcane Academic",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Scholar]]</i>\n\nExhaust — {0}: Make a {B} Dispel Check.\nExhaust — {0}: Make a {B} Dispel Check.",
+   "flavor": "\"You've exhausted your library's knowledge.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwpr17yexk0y36rgudwj",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "arcane",
+      "a": 1,
+      "blend": "screen"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwpr69u2f2o8t",
+   "name": "Acrobat",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Exhaust — {0}: Make a LVL 1 Block Check.\nExhaust — {0}: Make a LVL 1 Counter Check.",
+   "flavor": "\"Your agile and nimble, slippery and evasive.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwpr69u2u3t64dzwhwmy",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "red"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "fiery",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwprcl7lcwd22",
+   "name": "Gambler",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Every time you take a Long Recovery you Wager your LVL in gold. (<i>Without using a Long Recovery Activity to Wager.</i>)",
+   "flavor": "\"A sure way to get nothing from something.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwprcl7l9n28n6pa75ez",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "yellow"
+    ],
+    "holo": null
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwprhh9b83vjv",
+   "name": "Card Shark",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Gambler]]</i>\n\nWhenever you win a Wager, you gain +LVL Gold.",
+   "flavor": "\"It is not a matter of good cards, but playing a poor hand well.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwprhh9b9uufmlzzhcyt",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "yellow"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "gold",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwprl2zpp4s2h",
+   "name": "Tribesman",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "{2}: Ignore Difficult Terrain this turn.\nYou can make LVL 2 HCs against Beast Characters.",
+   "flavor": "\"You can ready and write common tongue. But more importantly, the tongue of your homeland.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwprl2zpsyf6fr26hkxu",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "green"
+    ],
+    "holo": null
+   },
+   "flavorRows": ""
   }
  ],
  "look": null,
