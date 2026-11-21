@@ -3,7 +3,7 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 111,
+  "cardCount": 113,
   "keywordCount": 46,
   "lookSlots": 0,
   "markCount": 0,
@@ -1511,6 +1511,87 @@
    "sagaIds": [
     "Venture"
    ]
+  },
+  {
+   "id": "cmwqxe7555wceg",
+   "name": "Sunspired",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Expend — {Y}: The next time you Heal a Character, Heal an additional LVL HP.\nExpend — {R}: Gain +LVL Move this turn.",
+   "flavor": "\"To do charity is to proclaim your love of the Sun, protect those trying to proclaim their love.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqxe755uelz69nnag7b",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "yellow"
+    ]
+   }
   },
   {
    "id": "cmwqkfmuxphibb",
@@ -7040,7 +7121,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nShield — {Y}, Rg LVL: Redirect all damage dealt from another target Character to yourself this turn. (<i>This stacks.</i>)",
+   "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nShield — Expend — {Y}, Rg LVL: Redirect all damage dealt from another target Character to yourself this turn.",
    "flavor": "\"I have lost my sons, let me return to them.\"",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -7096,6 +7177,83 @@
      },
      "border": {
       "set": "gold",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwqx8q23xxvin",
+   "name": "Steel Daughter",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nExpend — Sword — {O}, Rg LVL: Redirect all damage dealt from target enemy Character to another enemy Character this turn.",
+   "flavor": "\"I have lost my sons, let me return to them.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwqx8q23td60c07vaz29",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "orange"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "iron",
+      "a": 1,
+      "blend": "overlay"
+     },
+     "border": {
+      "set": "iron",
       "a": 1,
       "blend": "overlay"
      }
