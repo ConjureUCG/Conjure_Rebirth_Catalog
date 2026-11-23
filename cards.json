@@ -3,7 +3,7 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 123,
+  "cardCount": 127,
   "keywordCount": 46,
   "lookSlots": 0,
   "markCount": 0,
@@ -4653,7 +4653,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: [[Weaver]]</i>\nFocus — MP 3, {R}: The next Spell you cast deals +1 Damage. (<i>This stacks.</i>)",
+   "ruleText": "<i>Requires: [[Weaver]]</i>\n\nFocus — MP 3, {R}: The next Spell you cast deals +1 Damage. (<i>This stacks.</i>)",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -4685,7 +4685,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "red",
@@ -5190,8 +5190,8 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "<i>Requires: [[Stout]]</i>\n\nMace — You can make {R} Handling checks against Object Characters. If you succeeded, kill that Character.\nMace — {R}: You gain +1 ATK this turn.",
-   "flavor": "",
+   "ruleText": "<i>Requires: [[Stout]]</i>\n\nExhaust — Mace — Make a {R} HC against an Object Characters. If you succeeded, kill that Character.\nFocus — Mace — {R}: You gain +1 ATK this turn.",
+   "flavor": "\"Hammer maketh, hammer taketh away.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "sagaIds": [
@@ -5222,7 +5222,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "red"
@@ -5249,7 +5249,8 @@
       "blend": "multiply"
      }
     }
-   }
+   },
+   "flavorRows": ""
   },
   {
    "id": "cmwlegrn6xncj1",
@@ -5925,6 +5926,110 @@
    "rarity": "superior"
   },
   {
+   "id": "cmwsufdfxi7p25",
+   "name": "Dashing Strike",
+   "manaCost": "R",
+   "cmc": "1",
+   "colors": [
+    "red"
+   ],
+   "superTypes": [
+    "Action"
+   ],
+   "subTypes": [
+    "Warrior"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Move LVL Sq, you may perform a Default Attack in Rg M.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsufdfx0ooj8m50zldy",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-23",
+   "range": "",
+   "rarity": "superior"
+  },
+  {
+   "id": "cmwsui1uwiochf",
+   "name": "Dashing Song",
+   "manaCost": "R",
+   "cmc": "1",
+   "colors": [
+    "red"
+   ],
+   "superTypes": [
+    "Action"
+   ],
+   "subTypes": [
+    "Warrior"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Move LVL Sq, you may perform a Default Attack in Rg M.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsui1uwdrdogjz2urn2",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-23",
+   "range": "",
+   "rarity": "superior"
+  },
+  {
    "id": "cmwmmr07l67fkq",
    "name": "Cadmium Colors",
    "manaCost": "RY1",
@@ -6453,7 +6558,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "orange",
@@ -7271,7 +7376,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "You can make LVL 1 HCs against Beast and Plant Characters.\nYou can use up to LVL 2 Beast and Plant Characters as companions.",
+   "ruleText": "Exhaust — Make a HC against a Beast or Plant Characters.\nYou can use up to LVL 2 Beast and Plant Characters as companions.",
    "flavor": "\"You've learned to listen to nature, and can never ignore its words.\"",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -7299,7 +7404,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "frameColor": [
     "yellow"
    ],
@@ -7505,7 +7610,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "frameColor": [
     "yellow"
    ],
@@ -7560,6 +7665,109 @@
       "set": "earthen",
       "a": 1,
       "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwsvg6wheof04",
+   "name": "Haage Keepers",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You can make HCs against Geist Characters; and use them as Companions.",
+   "flavor": "\"The Haage keep balance between the living and dead. But that also means stopping the living just as much as the dead.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwsvg6whdid7hv3i8v6s",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "esper",
+      "a": 0.37,
+      "blend": "screen"
      }
     }
    }
@@ -8404,7 +8612,7 @@
    "health": "",
    "arcane": "",
    "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nExpend — Sword — {O}, Rg LVL: Redirect all damage dealt from target enemy Character to another enemy Character this turn.",
-   "flavor": "\"I have lost my sons, let me return to them.\"",
+   "flavor": "\"The daughter of men must act when they cannot.\"",
    "saga": "Venture",
    "sagaId": "Venture",
    "sagaIds": [
@@ -8435,7 +8643,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "orange"
@@ -8757,6 +8965,56 @@
    ],
    "lastUpdated": "2026-11-22",
    "range": "8"
+  },
+  {
+   "id": "cmwsvjve9fd8ny",
+   "name": "Haage Bell",
+   "manaCost": "VY",
+   "cmc": "2",
+   "colors": [
+    "yellow",
+    "violet"
+   ],
+   "superTypes": [
+    "Character"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "",
+   "flavor": "",
+   "saga": "Core Essence",
+   "sagaId": "Core Essence",
+   "sagaIds": [
+    "Core Essence"
+   ],
+   "revision": "",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsvjve92i0zgc4lu86r",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-23",
+   "frame": "vr"
   }
  ],
  "look": null,
