@@ -3,7 +3,7 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 113,
+  "cardCount": 123,
   "keywordCount": 46,
   "lookSlots": 0,
   "markCount": 0,
@@ -1513,707 +1513,6 @@
    ]
   },
   {
-   "id": "cmwqxe7555wceg",
-   "name": "Sunspired",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "Expend — {Y}: The next time you Heal a Character, Heal an additional LVL HP.\nExpend — {R}: Gain +LVL Move this turn.",
-   "flavor": "\"To do charity is to proclaim your love of the Sun, protect those trying to proclaim their love.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqxe755uelz69nnag7b",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "red",
-     "yellow"
-    ]
-   }
-  },
-  {
-   "id": "cmwqkfmuxphibb",
-   "name": "Druidic Neophyte",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "You can make LVL 1 HCs against Beast and Plant Characters.\nYou can use up to LVL 2 Beast and Plant Characters as companions.",
-   "flavor": "\"You've learned to listen to nature, and can never ignore its words.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqkfmuxe3lk49yno73q",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "elven",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwqkirsps0994",
-   "name": "Southern Druid",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Swimming Beast, Aqua Elemental, and Cryo Elemental Characters; and use them as Companions.",
-   "flavor": "\"You've learned to listen to the cracks of glacial consideration, showing the weakness of insurmountable challenges.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqkirspf5hlhcbvyuba",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "green",
-     "blue"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "lunar",
-      "a": 1,
-      "blend": "soft-light"
-     }
-    }
-   },
-   "flavorRows": ""
-  },
-  {
-   "id": "cmwqkma2q3njvj",
-   "name": "Eastern Druid",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Hooved Beast, Horned Beast, and Geo Elemental Characters; and use them as Companions.",
-   "flavor": "\"You've learned to listen to the patient advice of the earth shifting below out feet.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqkma2qr7hbqpxdlw8o",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "orange",
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "earthen",
-      "a": 1,
-      "blend": "soft-light"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwqwjevdjxa2n",
-   "name": "Northern Druid Dissent",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Fanged Beast, and Pyro Elemental Characters; and use them as Companions.",
-   "flavor": "\"You've learned to listen to the hissing of burning embers, which others have no choice but to also listen to.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqwjevdgc1d8gybpzrh",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "red",
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "fiery",
-      "a": 1,
-      "blend": "soft-light"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwqwmgruoiwmo",
-   "name": "Northern Druid Satyagrahi",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Winged Beast, and Zephyr Elemental Characters; and use them as Companions.",
-   "flavor": "\"You've learned to listen to the gentle guidance of the wind, as it's words are carried far and wide.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqwmgrv7mz30ewk5kep",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "yellow",
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "ghost",
-      "a": 1,
-      "blend": "soft-light"
-     }
-    }
-   },
-   "flavorRows": ""
-  },
-  {
-   "id": "cmwqmk80baukr9",
-   "name": "Western Druid",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Clawed Beast, and Elemental Characters; and use them as Companions.",
-   "flavor": "\"You've learned to listen to chaos of the world, grasping at the spoils of life.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwqmk80b60bid2lxgc82",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "red",
-     "green",
-     "blue"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "ember",
-      "a": 0.65,
-      "blend": "overlay"
-     },
-     "border": {
-      "set": "ember",
-      "a": 1,
-      "blend": "overlay"
-     }
-    }
-   }
-  },
-  {
    "id": "cmtypd90y6hd9u",
    "name": "Grizzly Bear",
    "manaCost": "GG1",
@@ -2472,8 +1771,8 @@
    "range": "",
    "ruleText": "You may make Handling Checks against Beast Characters.\n\nYou may use Beast Characters as Companions.",
    "flavor": "",
-   "saga": "Test",
-   "sagaId": "Test",
+   "saga": "Venture",
+   "sagaId": "Venture",
    "revision": "1.0",
    "artist": "Midjourney",
    "designer": "Conjure UCG LLC 2027",
@@ -2498,9 +1797,12 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-22",
    "cid": "c1lbvofv1is4n5d",
-   "rarity": "uncommon"
+   "rarity": "uncommon",
+   "sagaIds": [
+    "Venture"
+   ]
   },
   {
    "id": "cmtypd90yeqd2g",
@@ -3890,7 +3192,7 @@
   },
   {
    "id": "cmwkj662ygwus7",
-   "name": "Beast Friend",
+   "name": "Pet Familiar",
    "manaCost": "",
    "cmc": "",
    "colors": [],
@@ -3933,7 +3235,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "orange",
@@ -3957,6 +3259,81 @@
      },
      "border": {
       "set": "verdant",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwsjxy8rljd5r",
+   "name": "Memento",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Choose a Armament with Mana Cost 1. You may use that card without paying its Mana Cost.\n(<i>You can only choose once.</i>)",
+   "flavor": "\"You hold it close, thinking about what you've lost. Knowing you'll never let this go.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsjxy8refi09koau162",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "yellow"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "ghost",
       "a": 1,
       "blend": "overlay"
      }
@@ -5947,7 +5324,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Exhaust — You automatically succeed a Handling Check.\nGain -2 Move",
+   "ruleText": "Exhaust — You automatically succeed a Handling Check.\nGain -1 Move",
    "flavor": "\"Your knees just don't work like they used to.\"",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5978,7 +5355,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "artXf": {
     "z": 1,
     "x": 0,
@@ -6568,10 +5945,10 @@
    "arcane": "15",
    "ruleText": "Whenever you cast a Spell that has a single target, you may pay any amount of {R} and/or {Y}. This turn the target of that Spell gains +1 Attack for each {R} and +5 HP for each {Y} paid.",
    "flavor": "",
-   "saga": "Core Essence",
-   "sagaId": "Core Essence",
+   "saga": "Venture",
+   "sagaId": "Venture",
    "sagaIds": [
-    "Core Essence"
+    "Venture"
    ],
    "revision": "1.0",
    "artist": "Midjourney",
@@ -6597,7 +5974,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-20",
+   "lastUpdated": "2026-11-22",
    "frame": "vr",
    "range": ""
   },
@@ -6782,10 +6159,10 @@
    "arcane": "",
    "ruleText": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\nThe first Character you target each round loses MP equal to the damage dealt to them and can't cast Spells until the start of their next turn.",
    "flavor": "",
-   "saga": "Core Essence",
-   "sagaId": "Core Essence",
+   "saga": "Venture",
+   "sagaId": "Venture",
    "sagaIds": [
-    "Core Essence"
+    "Venture"
    ],
    "revision": "1.0",
    "artist": "Midjourney",
@@ -6812,7 +6189,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19"
+   "lastUpdated": "2026-11-22"
   },
   {
    "id": "cmwo95phwfdflx",
@@ -7185,83 +6562,6 @@
    "flavorRows": ""
   },
   {
-   "id": "cmwqx8q23xxvin",
-   "name": "Steel Daughter",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nExpend — Sword — {O}, Rg LVL: Redirect all damage dealt from target enemy Character to another enemy Character this turn.",
-   "flavor": "\"I have lost my sons, let me return to them.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwqx8q23td60c07vaz29",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-21",
-   "borderLook": {
-    "frameColor": [
-     "orange"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "iron",
-      "a": 1,
-      "blend": "overlay"
-     },
-     "border": {
-      "set": "iron",
-      "a": 1,
-      "blend": "overlay"
-     }
-    }
-   },
-   "flavorRows": ""
-  },
-  {
    "id": "cmwof04lhn8tdk",
    "name": "Watchful Gaurd",
    "manaCost": "Y",
@@ -7546,6 +6846,81 @@
    }
   },
   {
+   "id": "cmwsk3l4qs8rcj",
+   "name": "Wanted Dead or Alive",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Wanted Criminal]]</i>\nYou can make LVL 3 Lock Checks.",
+   "flavor": "\"You are wanted dead or alive, bounty hunters and authorities alike are on the lookout for you. Remain disguised or risk being recognized.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsk3l4re5rtqed1vv5z",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "multiply"
+     },
+     "border": {
+      "set": "demonic",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
    "id": "cmwpr17yedbvy5",
    "name": "Arcane Academic",
    "manaCost": "",
@@ -7633,7 +7008,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "Exhaust — {0}: Make a LVL 1 Block Check.\nExhaust — {0}: Make a LVL 1 Counter Check.",
+   "ruleText": "Exhaust — {0}: Make a LVL 3 Block Check.\nExhaust — {0}: Make a LVL 1 Counter Check.",
    "flavor": "\"Your agile and nimble, slippery and evasive.\"",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -7665,7 +7040,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "red"
@@ -7839,7 +7214,7 @@
    "attack": "",
    "health": "",
    "arcane": "",
-   "ruleText": "{2}: Ignore Difficult Terrain this turn.\nYou can make LVL 2 HCs against Beast Characters.",
+   "ruleText": "{2}: Ignore Difficult Terrain this turn.\nYou can make LVL 1 HCs against Beast Characters.",
    "flavor": "\"You can ready and write common tongue. But more importantly, the tongue of your homeland.\"",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -7871,7 +7246,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "green"
@@ -7879,6 +7254,1509 @@
     "holo": null
    },
    "flavorRows": ""
+  },
+  {
+   "id": "cmwqkfmuxphibb",
+   "name": "Druidic Neophyte",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You can make LVL 1 HCs against Beast and Plant Characters.\nYou can use up to LVL 2 Beast and Plant Characters as companions.",
+   "flavor": "\"You've learned to listen to nature, and can never ignore its words.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqkfmuxe3lk49yno73q",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "elven",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqkirsps0994",
+   "name": "Southern Druid",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Swimming Beast, Aqua Elemental, and Cryo Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the cracks of glacial consideration, showing the weakness of insurmountable challenges.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqkirspf5hlhcbvyuba",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "lunar",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwqkma2q3njvj",
+   "name": "Eastern Druid",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Hooved Beast, Horned Beast, and Geo Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the patient advice of the earth shifting below out feet.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqkma2qr7hbqpxdlw8o",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "earthen",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqmk80baukr9",
+   "name": "Western Druid",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Clawed Beast, and Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to chaos of the world, grasping at the spoils of life.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqmk80b60bid2lxgc82",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "green",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "ember",
+      "a": 0.65,
+      "blend": "overlay"
+     },
+     "border": {
+      "set": "ember",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqwjevdjxa2n",
+   "name": "Northern Druid Dissent",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Fanged Beast, and Pyro Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the hissing of burning embers, which others have no choice but to also listen to.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqwjevdgc1d8gybpzrh",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "fiery",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwskfip9gag4w",
+   "name": "Fohh Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {R}: The next time you perform a Warrior Action, copy it.\nExhaust — {R}: Perform a Default Attack.",
+   "flavor": "\"The Fohh Clan are conquerors and warriors. Raised to be brave and bold.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwskfip97kiw9zyu1swz",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "fiery",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwskjqzfihlyv",
+   "name": "Haux Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {G}: The next time you cast a Druid Spell, copy it.\nExhaust — {0}: Ignore Difficult Terrain this turn.",
+   "flavor": "\"The Haux Clan are nomadic and cultivate the wilds. Raised to be resourceful and nurturing.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwskjqzf37y6sabx9jxy",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "verdant",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwsu2d69rxjsc",
+   "name": "Phell Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {B}: The next time you cast an Aqua Spell, copy it.\nExhaust — {0}: Ignore Swimming this turn.",
+   "flavor": "\"The Phell Clan are visionaries and captivators. Raised to be fostering and esoteric.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwsu2d697tb76e71iewy",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "elven",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwskn8fs5mjo5",
+   "name": "Fain Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {YG}: The next time you perform a Monk Action or cast a Monk Spell, copy it.\nExhaust — {YG}: The next time an ally is Healed, Heal +LVL HP.",
+   "flavor": "\"The Fain Clan are stoic visionaries. Raised to be generous and welcoming.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwskn8fsrqxyq7csfcwr",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "verdant",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwstow8jjre0h",
+   "name": "Zorr Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {IV}: The next time you cast a Shaman Spell, copy it.\nExhaust — {IV}: Each Character in Rg LVL, loses LVL HP.",
+   "flavor": "\"The Zorr Clan are communes of tepid forces. Raised to be languid and ossified.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwstow8jf42bqqlv348f",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "indigo",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "abyssal",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwqwmgruoiwmo",
+   "name": "Northern Druid Satyagrahi",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Can be used with: [[Druidic Neophyte]]</i>\n\nYou can make HCs against Winged Beast, and Zephyr Elemental Characters; and use them as Companions.",
+   "flavor": "\"You've learned to listen to the gentle guidance of the wind, as it's words are carried far and wide.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqwmgrv7mz30ewk5kep",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "ghost",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwqx8q23xxvin",
+   "name": "Steel Daughter",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: Female [[Stout]]</i>\n\nExpend — Sword — {O}, Rg LVL: Redirect all damage dealt from target enemy Character to another enemy Character this turn.",
+   "flavor": "\"I have lost my sons, let me return to them.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwqx8q23td60c07vaz29",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "borderLook": {
+    "frameColor": [
+     "orange"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "iron",
+      "a": 1,
+      "blend": "overlay"
+     },
+     "border": {
+      "set": "iron",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   },
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwqxe7555wceg",
+   "name": "Sunspired",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Expend — {Y}: The next time you Heal a Character, Heal an additional LVL HP.\nExpend — {R}: Gain +LVL Move this turn.",
+   "flavor": "\"To do charity is to proclaim your love of the Sun, protect those trying to proclaim their love.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqxe755uelz69nnag7b",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "yellow"
+    ]
+   }
+  },
+  {
+   "id": "cmwqxmym1kqt1c",
+   "name": "Monk Acolyte",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "Exhaust — {Y}: Make a Block Check.\nExhaust — {G}: Make a Counter Check.",
+   "flavor": "\"Of sound body, and sound mind.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-21",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwqxmym196avy4o544yy",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "elven",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmws1v6hu7gim9",
+   "name": "Sword Dance of Rond",
+   "manaCost": "RRR3",
+   "cmc": "6",
+   "colors": [
+    "red"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Action",
+    "Spell"
+   ],
+   "subTypes": [
+    "Pyro",
+    "Sword"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "30",
+   "ruleText": "Pay any amount of {R}, increase your Melee Rg by that much this turn.\nDefault Attack or deal ATK FI 1 to LVL targets, you may choose the same target multiple times.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmws1v6huo89szdtp9dgq",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "30"
+    },
+    {
+     "type": "range",
+     "value": "M"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-22",
+   "range": "M",
+   "rarity": "legendary"
+  },
+  {
+   "id": "cmws2i6i1tls51",
+   "name": "Aiofe's Tide",
+   "manaCost": "BBB3",
+   "cmc": "6",
+   "colors": [
+    "blue"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Spell"
+   ],
+   "subTypes": [
+    "Aqua",
+    "Focus",
+    "Wizard"
+   ],
+   "attack": "25",
+   "health": "",
+   "arcane": "75",
+   "ruleText": "WA 1 Circle\nIf an ally would be damaged by this Spell, instead they Mana Flood equal to the damage. The next time a Character that Mana Flooded this way would be targeted by a Spell, instead they may Dispel that Spell.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmws2i6i1jx8gql4wjvnh",
+   "orbs": [
+    {
+     "type": "attack",
+     "value": "25"
+    },
+    {
+     "type": "arcane",
+     "value": "75"
+    },
+    {
+     "type": "range",
+     "value": "8"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-22",
+   "range": "8"
   }
  ],
  "look": null,

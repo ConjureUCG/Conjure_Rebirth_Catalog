@@ -5,15 +5,7 @@
   "author": "",
   "version": "1.0",
   "description": "",
-  "cardCount": 9
- },
- {
-  "id": "Test",
-  "name": "Test",
-  "author": "",
-  "version": "1.0",
-  "description": "",
-  "cardCount": 1
+  "cardCount": 7
  },
  {
   "id": "Venture",
@@ -21,6 +13,6 @@
   "author": "",
   "version": "1.0",
   "description": "",
-  "cardCount": 103
+  "cardCount": 116
  }
 ]
