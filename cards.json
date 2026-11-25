@@ -3,8 +3,8 @@
   "name": "Conjure UCG",
   "format": 2,
   "game": "rebirth",
-  "cardCount": 127,
-  "keywordCount": 46,
+  "cardCount": 136,
+  "keywordCount": 51,
   "lookSlots": 0,
   "markCount": 0,
   "markPrint": "2:3hnx9",
@@ -1325,9 +1325,9 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "15",
    "range": "",
-   "ruleText": "You may make Handling Checks against Undead Characters.\n\nYou may use Undead Characters as Companions.",
+   "ruleText": "You may make Handling Checks against Undead Characters.\nYou may use Undead Characters as Companions.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -1338,8 +1338,8 @@
    "art": "",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "15"
     },
     {
      "type": "hidden",
@@ -1355,7 +1355,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "cid": "c106sbjj0vedd63",
    "rarity": "uncommon",
    "sagaIds": [
@@ -1378,7 +1378,7 @@
    "health": "",
    "arcane": "",
    "range": "",
-   "ruleText": "<i>Requires: [[Seabound]]</i>\n\nIgnore Swimming Move restrictions.\nThe first time you cast a Spell each round you Mana Flood equal to your LVL, and each round you don't cast a Spell or you're not Swimming you Mana Drain equal to your LVL and lose your next Move.",
+   "ruleText": "<i>Requires: [[Seabound]]</i>\n\nIgnore Swimming Move restrictions.\nThe first time you cast a Spell each round you Manaflood LVL, and each round you don't cast a Spell or you're not Swimming you Manadrain LVL and lose your next Move.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -1406,7 +1406,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-21",
+   "lastUpdated": "2026-11-24",
    "holo": {
     "image": {
      "set": "none",
@@ -1893,13 +1893,13 @@
     "Spell"
    ],
    "subTypes": [
-    "Wizard",
     "Aqua",
-    "Cryo"
+    "Cryo",
+    "Wizard"
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "25",
    "range": "",
    "ruleText": "Whenever you play an Aqua or Cryo Spell, the next Aqua or Cryo Spell of the other type you cast this turn with MP cost less than the card you played, costs 0 MP to cast.",
    "flavor": "",
@@ -1912,8 +1912,8 @@
    "art": "",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "25"
     },
     {
      "type": "hidden",
@@ -1929,9 +1929,9 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "cid": "c0jwzl7x0prad0p",
-   "rarity": "uncommon",
+   "rarity": "fine",
    "sagaIds": [
     "Venture"
    ]
@@ -2196,8 +2196,8 @@
   {
    "id": "cmtypd90yl0jgf",
    "name": "Control Elementals",
-   "manaCost": "BR",
-   "cmc": "2",
+   "manaCost": "BR1",
+   "cmc": "3",
    "colors": [
     "red",
     "blue"
@@ -2212,9 +2212,9 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "35",
    "range": "",
-   "ruleText": "You may make Handling Checks against Elemental Characters.\n\nYou may use Elemental Characters as Companions.\n\nCompanions you control gain 5x your LVL in MP.",
+   "ruleText": "You may use Elemental Characters as Companions.\nElemental Characters you use cost {BR} less.\nCompanions you control gain 5x your LVL in MP.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -2225,8 +2225,8 @@
    "art": "",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "35"
     },
     {
      "type": "hidden",
@@ -2242,7 +2242,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "cid": "c07ltlqg1y4u6qi",
    "rarity": "uncommon",
    "sagaIds": [
@@ -2266,7 +2266,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "10",
    "range": "",
    "ruleText": "Spells cost {1} more to target you.\nSlow, 4 Rg — {1}: Move this card to another target Character until the end of Battle.",
    "flavor": "",
@@ -2279,8 +2279,8 @@
    "art": "",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "10"
     },
     {
      "type": "hidden",
@@ -2296,7 +2296,7 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "cid": "c0519coo0mh2lx0",
    "rarity": "fine",
    "sagaIds": [
@@ -2519,18 +2519,20 @@
     "yellow"
    ],
    "superTypes": [
+    "Mythic",
     "Action",
     "Spell"
    ],
    "subTypes": [
+    "Divine",
     "Cleric",
     "Soldier"
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "35",
    "range": "",
-   "ruleText": "Unique\nYou gain 100 {Y} this turn, you may reveal any number of cards from your Deck. You may play those cards this turn.",
+   "ruleText": "You gain 100 {Y} this turn, you may reveal any number of  Dive, Cleric, or Soldier cards from your Deck. You may play those cards this turn.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -2541,8 +2543,8 @@
    "art": "",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "35"
     },
     {
      "type": "hidden",
@@ -2557,7 +2559,7 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "cid": "c16dvff81607vw0",
    "borderLook": {
     "frameColor": null
@@ -2847,8 +2849,8 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
-   "ruleText": "Once per Battle - Slow - Pay any amount of HP: Recovery MP equal to the HP you paid.\n \nOnce per Battle - Slow - Rg M - Pay any amount of MP: Make a HC against target Character. If you pass, they lose HP equal to the MP you paid.\n",
+   "arcane": "20",
+   "ruleText": "Expend — Slow — Pay any amount of HP: Recovery MP equal to the HP you paid.\nExpend — Slow — Rg M — Pay any amount of MP: Make a HC against target Character. If you pass, they lose HP equal to the MP you paid.\n",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -2863,8 +2865,8 @@
    "cid": "cmwk191r1r6cxf56r9v7p",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "20"
     },
     {
      "type": "hidden",
@@ -2880,8 +2882,9 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
-   "rarity": "rare"
+   "lastUpdated": "2026-11-24",
+   "rarity": "rare",
+   "range": ""
   },
   {
    "id": "cmwk1atdiexaqg",
@@ -2903,7 +2906,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "15",
    "ruleText": "If a Yellow Spell you cast would Heal, instead it Heals an additional LVL HP.\nYellow Spells you cast cost 10MP less.\nSpells you play have Rg M.\n",
    "flavor": "",
    "saga": "Venture",
@@ -2919,8 +2922,8 @@
    "cid": "cmwk1atdio7d46ebg3gwm",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "15"
     },
     {
      "type": "hidden",
@@ -2936,8 +2939,9 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-19",
-   "rarity": "fine"
+   "lastUpdated": "2026-11-24",
+   "rarity": "fine",
+   "range": ""
   },
   {
    "id": "cmwk1ce4krtovt",
@@ -3266,81 +3270,6 @@
    }
   },
   {
-   "id": "cmwsjxy8rljd5r",
-   "name": "Memento",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "Choose a Armament with Mana Cost 1. You may use that card without paying its Mana Cost.\n(<i>You can only choose once.</i>)",
-   "flavor": "\"You hold it close, thinking about what you've lost. Knowing you'll never let this go.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwsjxy8refi09koau162",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "borderLook": {
-    "frameColor": [
-     "orange",
-     "yellow"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "ghost",
-      "a": 1,
-      "blend": "overlay"
-     }
-    }
-   }
-  },
-  {
    "id": "cmwkjbqyeti0rw",
    "name": "Banshee Scream",
    "manaCost": "I2",
@@ -3410,7 +3339,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "5",
    "ruleText": "Slow —  {I}: The next Noise you make becomes \"Deafening\".",
    "flavor": "",
    "saga": "Venture",
@@ -3426,8 +3355,8 @@
    "cid": "cmwkjd3vbcxw7halhrnrf",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "5"
     },
     {
      "type": "hidden",
@@ -3442,9 +3371,10 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "frame": "vr",
-   "rarity": "superior"
+   "rarity": "superior",
+   "range": ""
   },
   {
    "id": "cmwkjezu377fe9",
@@ -3938,7 +3868,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "15",
    "ruleText": "Whenever you Produce a Potion Consumable, Produce an additional 1.",
    "flavor": "",
    "saga": "Venture",
@@ -3954,8 +3884,8 @@
    "cid": "cmwkk36flfop9xlpvgsz9",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "15"
     },
     {
      "type": "hidden",
@@ -3970,9 +3900,10 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "frame": "vr",
-   "rarity": "fine"
+   "rarity": "fine",
+   "range": ""
   },
   {
    "id": "cmwkk7u59i406q",
@@ -4553,7 +4484,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "15",
    "ruleText": "Exhaust — Make a {R} Lock Check.\nExhaust — Make a {Y} Block Check.\nExhaust — Make a {B} Dispel Check.",
    "flavor": "",
    "saga": "Venture",
@@ -4569,8 +4500,8 @@
    "cid": "cmwklfix3l4qyyxumxrcm",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "15"
     },
     {
      "type": "hidden",
@@ -4585,9 +4516,10 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
+   "lastUpdated": "2026-11-24",
    "frame": "vr",
-   "rarity": "fine"
+   "rarity": "fine",
+   "range": ""
   },
   {
    "id": "cmwkljxgio4brt",
@@ -5733,8 +5665,8 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
-   "ruleText": "Target Character gains Immunity from the damage type of your choice this Battle.",
+   "arcane": "50",
+   "ruleText": "Another target Character gains Immunity from the damage type of your choice this Battle.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5749,12 +5681,12 @@
    "cid": "cmwlewrr3c5hfgfm8ii4w",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "50"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "5"
     },
     {
      "type": "hidden",
@@ -5765,8 +5697,9 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "rarity": "superior"
+   "lastUpdated": "2026-11-24",
+   "rarity": "superior",
+   "range": "5"
   },
   {
    "id": "cmwlfdqi0jsbxc",
@@ -5784,7 +5717,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "15",
    "ruleText": "Target Character gains Immunity from the damage type of your choice this Round.",
    "flavor": "",
    "saga": "Venture",
@@ -5800,12 +5733,12 @@
    "cid": "cmwlfdqi0eaqtcqmhol7u",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "15"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "7"
     },
     {
      "type": "hidden",
@@ -5816,8 +5749,9 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "rarity": "uncommon"
+   "lastUpdated": "2026-11-24",
+   "rarity": "uncommon",
+   "range": "7"
   },
   {
    "id": "cmwlfeamv9dvqe",
@@ -5828,15 +5762,15 @@
     "yellow"
    ],
    "superTypes": [
-    "Spell",
-    "Quick"
+    "Quick",
+    "Spell"
    ],
    "subTypes": [
     "Cleric"
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "10",
    "ruleText": "Target Character gains Immunity from the damage type of your choice this Turn.",
    "flavor": "",
    "saga": "Venture",
@@ -5852,12 +5786,12 @@
    "cid": "cmwlfeamvnvpyx0f0xx5y",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "10"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "7"
     },
     {
      "type": "hidden",
@@ -5868,8 +5802,9 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "rarity": "uncommon"
+   "lastUpdated": "2026-11-24",
+   "rarity": "uncommon",
+   "range": "7"
   },
   {
    "id": "cmwlfg5anc5uz3",
@@ -5890,7 +5825,7 @@
    "attack": "",
    "health": "",
    "arcane": "10",
-   "ruleText": "Deal 4 FI damage in a Rg 1 circle on yourself (<i>You're also dealt damage</i>).",
+   "ruleText": "Deal FI 5 damage in a circle on yourself (<i>You're also dealt damage</i>).",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -5909,8 +5844,8 @@
      "value": "10"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "1"
     },
     {
      "type": "hidden",
@@ -5921,112 +5856,8 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "range": "",
-   "rarity": "superior"
-  },
-  {
-   "id": "cmwsufdfxi7p25",
-   "name": "Dashing Strike",
-   "manaCost": "R",
-   "cmc": "1",
-   "colors": [
-    "red"
-   ],
-   "superTypes": [
-    "Action"
-   ],
-   "subTypes": [
-    "Warrior"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "Move LVL Sq, you may perform a Default Attack in Rg M.",
-   "flavor": "",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwsufdfx0ooj8m50zldy",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "lastUpdated": "2026-11-23",
-   "range": "",
-   "rarity": "superior"
-  },
-  {
-   "id": "cmwsui1uwiochf",
-   "name": "Dashing Song",
-   "manaCost": "R",
-   "cmc": "1",
-   "colors": [
-    "red"
-   ],
-   "superTypes": [
-    "Action"
-   ],
-   "subTypes": [
-    "Warrior"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "Move LVL Sq, you may perform a Default Attack in Rg M.",
-   "flavor": "",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwsui1uwdrdogjz2urn2",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "lastUpdated": "2026-11-23",
-   "range": "",
+   "lastUpdated": "2026-11-24",
+   "range": "1",
    "rarity": "superior"
   },
   {
@@ -6092,8 +5923,8 @@
     "indigo"
    ],
    "superTypes": [
-    "Spell",
-    "Quick"
+    "Quick",
+    "Spell"
    ],
    "subTypes": [
     "Void",
@@ -6101,7 +5932,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "10",
    "ruleText": "Target Character takes double damage from the damage type of your choice this Turn.",
    "flavor": "",
    "saga": "Venture",
@@ -6117,12 +5948,12 @@
    "cid": "cmwmojjwkmz6sd8v1cjyq",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "10"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "8"
     },
     {
      "type": "hidden",
@@ -6133,8 +5964,9 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "rarity": "uncommon"
+   "lastUpdated": "2026-11-24",
+   "rarity": "uncommon",
+   "range": "8"
   },
   {
    "id": "cmwmom3x8mapd7",
@@ -6153,7 +5985,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "5",
    "ruleText": "Target Character takes double damage from the damage type of your choice this Round.",
    "flavor": "",
    "saga": "Venture",
@@ -6169,12 +6001,12 @@
    "cid": "cmwmom3x8hgnqf1tem5nm",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "5"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "7"
     },
     {
      "type": "hidden",
@@ -6185,8 +6017,9 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "rarity": "uncommon"
+   "lastUpdated": "2026-11-24",
+   "rarity": "uncommon",
+   "range": "7"
   },
   {
    "id": "cmwmook7ar2tvs",
@@ -6205,7 +6038,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "45",
    "ruleText": "Target Character takes double damage from the damage type of your choice this Battle.",
    "flavor": "",
    "saga": "Venture",
@@ -6221,12 +6054,12 @@
    "cid": "cmwmook7a59e72dy03a0y",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "45"
     },
     {
-     "type": "hidden",
-     "value": ""
+     "type": "range",
+     "value": "6"
     },
     {
      "type": "hidden",
@@ -6237,8 +6070,9 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-19",
-   "rarity": "superior"
+   "lastUpdated": "2026-11-24",
+   "rarity": "superior",
+   "range": "6"
   },
   {
    "id": "cmwmov8blx8xom",
@@ -6261,7 +6095,7 @@
    ],
    "attack": "",
    "health": "",
-   "arcane": "",
+   "arcane": "25",
    "ruleText": "Spells you cast are Silent. If they use N as their range, they retain their range but only effect Characters you choose.\nThe first Character you target each round loses MP equal to the damage dealt to them and can't cast Spells until the start of their next turn.",
    "flavor": "",
    "saga": "Venture",
@@ -6277,8 +6111,8 @@
    "cid": "cmwmov8blr3ljxuvpc1m3",
    "orbs": [
     {
-     "type": "hidden",
-     "value": ""
+     "type": "arcane",
+     "value": "25"
     },
     {
      "type": "hidden",
@@ -6294,7 +6128,8 @@
     }
    ],
    "frame": "vr",
-   "lastUpdated": "2026-11-22"
+   "lastUpdated": "2026-11-24",
+   "range": ""
   },
   {
    "id": "cmwo95phwfdflx",
@@ -6921,81 +6756,6 @@
    ],
    "frame": "vr",
    "lastUpdated": "2026-11-21",
-   "borderLook": {
-    "frameColor": [
-     "red",
-     "violet"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "multiply"
-     },
-     "border": {
-      "set": "demonic",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwsk3l4qs8rcj",
-   "name": "Wanted Dead or Alive",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "ruleText": "<i>Requires: [[Wanted Criminal]]</i>\nYou can make LVL 3 Lock Checks.",
-   "flavor": "\"You are wanted dead or alive, bounty hunters and authorities alike are on the lookout for you. Remain disguised or risk being recognized.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "sagaIds": [
-    "Venture"
-   ],
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "cid": "cmwsk3l4re5rtqed1vv5z",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
    "borderLook": {
     "frameColor": [
      "red",
@@ -7670,109 +7430,6 @@
    }
   },
   {
-   "id": "cmwsvg6wheof04",
-   "name": "Haage Keepers",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "You can make HCs against Geist Characters; and use them as Companions.",
-   "flavor": "\"The Haage keep balance between the living and dead. But that also means stopping the living just as much as the dead.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwsvg6whdid7hv3i8v6s",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "yellow",
-     "violet"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "esper",
-      "a": 0.37,
-      "blend": "screen"
-     }
-    }
-   }
-  },
-  {
    "id": "cmwqmk80baukr9",
    "name": "Western Druid",
    "manaCost": "",
@@ -7975,519 +7632,6 @@
       "set": "fiery",
       "a": 1,
       "blend": "soft-light"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwskfip9gag4w",
-   "name": "Fohh Clan",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {R}: The next time you perform a Warrior Action, copy it.\nExhaust — {R}: Perform a Default Attack.",
-   "flavor": "\"The Fohh Clan are conquerors and warriors. Raised to be brave and bold.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwskfip97kiw9zyu1swz",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "red"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "fiery",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwskjqzfihlyv",
-   "name": "Haux Clan",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {G}: The next time you cast a Druid Spell, copy it.\nExhaust — {0}: Ignore Difficult Terrain this turn.",
-   "flavor": "\"The Haux Clan are nomadic and cultivate the wilds. Raised to be resourceful and nurturing.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwskjqzf37y6sabx9jxy",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "verdant",
-      "a": 1,
-      "blend": "multiply"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwsu2d69rxjsc",
-   "name": "Phell Clan",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {B}: The next time you cast an Aqua Spell, copy it.\nExhaust — {0}: Ignore Swimming this turn.",
-   "flavor": "\"The Phell Clan are visionaries and captivators. Raised to be fostering and esoteric.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwsu2d697tb76e71iewy",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "green",
-     "blue"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "elven",
-      "a": 1,
-      "blend": "overlay"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwskn8fs5mjo5",
-   "name": "Fain Clan",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {YG}: The next time you perform a Monk Action or cast a Monk Spell, copy it.\nExhaust — {YG}: The next time an ally is Healed, Heal +LVL HP.",
-   "flavor": "\"The Fain Clan are stoic visionaries. Raised to be generous and welcoming.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwskn8fsrqxyq7csfcwr",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "yellow",
-     "green"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "verdant",
-      "a": 1,
-      "blend": "soft-light"
-     }
-    }
-   }
-  },
-  {
-   "id": "cmwstow8jjre0h",
-   "name": "Zorr Clan",
-   "manaCost": "",
-   "cmc": "",
-   "colors": [],
-   "superTypes": [
-    "Background"
-   ],
-   "subTypes": [
-    "Faith"
-   ],
-   "attack": "",
-   "health": "",
-   "arcane": "",
-   "range": "",
-   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {IV}: The next time you cast a Shaman Spell, copy it.\nExhaust — {IV}: Each Character in Rg LVL, loses LVL HP.",
-   "flavor": "\"The Zorr Clan are communes of tepid forces. Raised to be languid and ossified.\"",
-   "saga": "Venture",
-   "sagaId": "Venture",
-   "revision": "1.0",
-   "artist": "Midjourney",
-   "designer": "Conjure UCG LLC 2027",
-   "imageUrl": "",
-   "art": "",
-   "orbs": [
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    },
-    {
-     "type": "hidden",
-     "value": ""
-    }
-   ],
-   "frame": "vr",
-   "lastUpdated": "2026-11-23",
-   "frameColor": [
-    "yellow"
-   ],
-   "holo": {
-    "image": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "bg": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "pin": {
-     "set": "none",
-     "a": 0.35,
-     "blend": "screen"
-    },
-    "border": {
-     "set": "holy",
-     "a": 1,
-     "blend": "multiply"
-    }
-   },
-   "cid": "cmwstow8jf42bqqlv348f",
-   "sagaIds": [
-    "Venture"
-   ],
-   "borderLook": {
-    "frameColor": [
-     "indigo",
-     "violet"
-    ],
-    "holo": {
-     "image": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "bg": {
-      "set": "none",
-      "a": 0.35,
-      "blend": "screen"
-     },
-     "pin": {
-      "set": "none",
-      "a": 1,
-      "blend": "screen"
-     },
-     "border": {
-      "set": "abyssal",
-      "a": 1,
-      "blend": "overlay"
      }
     }
    }
@@ -8932,7 +8076,7 @@
    "attack": "25",
    "health": "",
    "arcane": "75",
-   "ruleText": "WA 1 Circle\nIf an ally would be damaged by this Spell, instead they Mana Flood equal to the damage. The next time a Character that Mana Flooded this way would be targeted by a Spell, instead they may Dispel that Spell.",
+   "ruleText": "WA 1 Circle\nIf an ally would be damaged by this Spell, instead they Manaflood equal to the damage. The next time a Character that Manaflooded this way would be targeted by a Spell, instead they may Dispel that Spell.",
    "flavor": "",
    "saga": "Venture",
    "sagaId": "Venture",
@@ -8963,8 +8107,878 @@
      "value": ""
     }
    ],
-   "lastUpdated": "2026-11-22",
+   "lastUpdated": "2026-11-24",
    "range": "8"
+  },
+  {
+   "id": "cmwsjxy8rljd5r",
+   "name": "Memento",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Choose a Armament with Mana Cost 1. You may use that card without paying its Mana Cost.\n(<i>You can only choose once.</i>)",
+   "flavor": "\"You hold it close, thinking about what you've lost. Knowing you'll never let this go.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsjxy8refi09koau162",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "borderLook": {
+    "frameColor": [
+     "orange",
+     "yellow"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "ghost",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwsk3l4qs8rcj",
+   "name": "Wanted Dead or Alive",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "<i>Requires: [[Wanted Criminal]]</i>\nYou can make LVL 3 Lock Checks.",
+   "flavor": "\"You are wanted dead or alive, bounty hunters and authorities alike are on the lookout for you. Remain disguised or risk being recognized.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsk3l4re5rtqed1vv5z",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "borderLook": {
+    "frameColor": [
+     "red",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "multiply"
+     },
+     "border": {
+      "set": "demonic",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwskfip9gag4w",
+   "name": "Fohh Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {R}: The next time you perform a Warrior Action, copy it.\nExhaust — {R}: Perform a Default Attack.",
+   "flavor": "\"The Fohh Clan are conquerors and warriors. Raised to be brave and bold.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwskfip97kiw9zyu1swz",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "red"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "fiery",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwskjqzfihlyv",
+   "name": "Haux Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {G}: The next time you cast a Druid Spell, copy it.\nExhaust — {0}: Ignore Difficult Terrain this turn.",
+   "flavor": "\"The Haux Clan are nomadic and cultivate the wilds. Raised to be resourceful and nurturing.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwskjqzf37y6sabx9jxy",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "verdant",
+      "a": 1,
+      "blend": "multiply"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwskn8fs5mjo5",
+   "name": "Fain Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {YG}: The next time you perform a Monk Action or cast a Monk Spell, copy it.\nExhaust — {YG}: The next time an ally is Healed, Heal +LVL HP.",
+   "flavor": "\"The Fain Clan are stoic visionaries. Raised to be generous and welcoming.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwskn8fsrqxyq7csfcwr",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "green"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "verdant",
+      "a": 1,
+      "blend": "soft-light"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwstow8jjre0h",
+   "name": "Zorr Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {IV}: The next time you cast a Shaman Spell, copy it.\nExhaust — {IV}: Each Character in Rg LVL, loses LVL HP.",
+   "flavor": "\"The Zorr Clan are communes of tepid forces. Raised to be languid and ossified.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwstow8jf42bqqlv348f",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "indigo",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "abyssal",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwsu2d69rxjsc",
+   "name": "Phell Clan",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "<i>Requires: [[Maw]], [[Tribesman]]</i>\n\nExhaust — {B}: The next time you cast an Aqua Spell, copy it.\nExhaust — {0}: Ignore Swimming this turn.",
+   "flavor": "\"The Phell Clan are visionaries and captivators. Raised to be fostering and esoteric.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwsu2d697tb76e71iewy",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "green",
+     "blue"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 1,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "elven",
+      "a": 1,
+      "blend": "overlay"
+     }
+    }
+   }
+  },
+  {
+   "id": "cmwsufdfxi7p25",
+   "name": "Dashing Strike",
+   "manaCost": "R",
+   "cmc": "1",
+   "colors": [
+    "red"
+   ],
+   "superTypes": [
+    "Action"
+   ],
+   "subTypes": [
+    "Warrior"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Move LVL Sq, you may perform a Default Attack in Rg M.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsufdfx0ooj8m50zldy",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-23",
+   "range": "",
+   "rarity": "superior"
+  },
+  {
+   "id": "cmwsui1uwiochf",
+   "name": "Dashing Song",
+   "manaCost": "R",
+   "cmc": "1",
+   "colors": [
+    "red"
+   ],
+   "superTypes": [
+    "Action"
+   ],
+   "subTypes": [
+    "Warrior"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "ruleText": "Move LVL Sq, you may perform a Default Attack in Rg M.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwsui1uwdrdogjz2urn2",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-23",
+   "range": "",
+   "rarity": "superior"
+  },
+  {
+   "id": "cmwsvg6wheof04",
+   "name": "Haage Keepers",
+   "manaCost": "",
+   "cmc": "",
+   "colors": [],
+   "superTypes": [
+    "Background"
+   ],
+   "subTypes": [
+    "Faith"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "",
+   "range": "",
+   "ruleText": "You can make HCs against Geist Characters; and use them as Companions.",
+   "flavor": "\"The Haage keep balance between the living and dead. But that also means stopping the living just as much as the dead.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-23",
+   "frameColor": [
+    "yellow"
+   ],
+   "holo": {
+    "image": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "bg": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "pin": {
+     "set": "none",
+     "a": 0.35,
+     "blend": "screen"
+    },
+    "border": {
+     "set": "holy",
+     "a": 1,
+     "blend": "multiply"
+    }
+   },
+   "cid": "cmwsvg6whdid7hv3i8v6s",
+   "sagaIds": [
+    "Venture"
+   ],
+   "borderLook": {
+    "frameColor": [
+     "yellow",
+     "violet"
+    ],
+    "holo": {
+     "image": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "bg": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "pin": {
+      "set": "none",
+      "a": 0.35,
+      "blend": "screen"
+     },
+     "border": {
+      "set": "esper",
+      "a": 0.37,
+      "blend": "screen"
+     }
+    }
+   }
   },
   {
    "id": "cmwsvjve9fd8ny",
@@ -9015,6 +9029,520 @@
    ],
    "lastUpdated": "2026-11-23",
    "frame": "vr"
+  },
+  {
+   "id": "cmwu3wu464dpxv",
+   "name": "Acidic Bolt",
+   "manaCost": "V",
+   "cmc": "1",
+   "colors": [
+    "violet"
+   ],
+   "superTypes": [
+    "Spell",
+    "Quick"
+   ],
+   "subTypes": [
+    "Necro"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "15",
+   "ruleText": "Deal NE 3 to target Character.\nWhenever a Character dies this turn, copy this card.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu3wu46d3q8un5gpzx3",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "15"
+    },
+    {
+     "type": "range",
+     "value": "5"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "uncommon",
+   "range": "5"
+  },
+  {
+   "id": "cmwu43d34w4lcz",
+   "name": "Minion Master",
+   "manaCost": "VV",
+   "cmc": "2",
+   "colors": [
+    "violet"
+   ],
+   "superTypes": [
+    "Ongoing",
+    "Spell"
+   ],
+   "subTypes": [
+    "Necro",
+    "Shaman"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "25",
+   "range": "",
+   "ruleText": "You may use Undead Characters as Companions.\nUndead Characters you use cost {VV} less.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "25"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "frame": "vr",
+   "lastUpdated": "2026-11-24",
+   "cid": "cmwu43d34nzpavhw7rgyl",
+   "rarity": "uncommon",
+   "sagaIds": [
+    "Venture"
+   ]
+  },
+  {
+   "id": "cmwu4ocld3wtg3",
+   "name": "True Word: Death",
+   "manaCost": "YGV",
+   "cmc": "3",
+   "colors": [
+    "yellow",
+    "green",
+    "violet"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Spell"
+   ],
+   "subTypes": [
+    "Spirit"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "60",
+   "ruleText": "Make a HC against target Character. If you succeed, kill that Character. If you fail, your HP becomes 1.",
+   "flavor": "\"Life begets Death.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu4ocldlvd3zae7o1pg",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "60"
+    },
+    {
+     "type": "range",
+     "value": "LVL"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "transcendent",
+   "range": "LVL"
+  },
+  {
+   "id": "cmwu4rixf7n5ky",
+   "name": "True Word: Silence",
+   "manaCost": "YBI",
+   "cmc": "3",
+   "colors": [
+    "yellow",
+    "blue",
+    "indigo"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Spell"
+   ],
+   "subTypes": [
+    "Spirit"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "50",
+   "ruleText": "Make a HC against target Character. If you succeed, that Character can never cast another Spell. If you fail, you can't cast Spells until your next Long Recovery.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu4rixftcyzi6aidlxu",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "50"
+    },
+    {
+     "type": "range",
+     "value": "LVL"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "transcendent",
+   "range": "LVL",
+   "flavorRows": ""
+  },
+  {
+   "id": "cmwu504oug367g",
+   "name": "True Word: Stop",
+   "manaCost": "IVR",
+   "cmc": "3",
+   "colors": [
+    "red",
+    "indigo",
+    "violet"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Spell"
+   ],
+   "subTypes": [
+    "Spirit"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "60",
+   "ruleText": "Make a HC against target Character. If you succeed, that Character loses it's next LVL turns If you fail, you lose your next LVL turns.",
+   "flavor": "\"Suspend your transgressions.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu504oudkh6j6kknv8t",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "60"
+    },
+    {
+     "type": "range",
+     "value": "LVL"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "transcendent",
+   "range": "LVL"
+  },
+  {
+   "id": "cmwu520etbzys4",
+   "name": "True Word: Life",
+   "manaCost": "OYG",
+   "cmc": "3",
+   "colors": [
+    "orange",
+    "yellow",
+    "green"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Spell"
+   ],
+   "subTypes": [
+    "Spirit"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "60",
+   "ruleText": "Make a HC against target Character. If you succeed, Heal that Character to full HP, and they can't be damaged until the end of next round. If you fail, you lose your next 2 turns.",
+   "flavor": "\"Death begets Life.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu520et7hnhv9olny2t",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "60"
+    },
+    {
+     "type": "range",
+     "value": "LVL"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "transcendent",
+   "range": "LVL"
+  },
+  {
+   "id": "cmwu5gl6gwyhmu",
+   "name": "True Word: Motion",
+   "manaCost": "ROG",
+   "cmc": "3",
+   "colors": [
+    "red",
+    "orange",
+    "green"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Quick",
+    "Spell"
+   ],
+   "subTypes": [
+    "Spirit"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "35",
+   "ruleText": "Make a HC against another target Character. If you succeed, that Character can Move up to LVL times. If you fail, you lose your next LVL Moves.",
+   "flavor": "\"Perpetuation of intention.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu5gl6gumx9d7a2gbi6",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "35"
+    },
+    {
+     "type": "range",
+     "value": "LVL"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "transcendent",
+   "range": "LVL"
+  },
+  {
+   "id": "cmwu5o4q5qycyi",
+   "name": "True Word: Break",
+   "manaCost": "RYB",
+   "cmc": "3",
+   "colors": [
+    "red",
+    "yellow",
+    "blue"
+   ],
+   "superTypes": [
+    "Mythic",
+    "Quick",
+    "Spell"
+   ],
+   "subTypes": [
+    "Spirit"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "70",
+   "ruleText": "Make a Counter, Dispel, or Lock Check. You automatically gain a +3 bonus.",
+   "flavor": "\"Crumble to dust.\"",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu5o4q5rfsozeix6rni",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "70"
+    },
+    {
+     "type": "range",
+     "value": "LVL"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "transcendent",
+   "range": "LVL"
+  },
+  {
+   "id": "cmwu5uz8b1vxlk",
+   "name": "Air Bubble",
+   "manaCost": "B",
+   "cmc": "1",
+   "colors": [
+    "blue"
+   ],
+   "superTypes": [
+    "Quick",
+    "Spell"
+   ],
+   "subTypes": [
+    "Aqua",
+    "Zephyr"
+   ],
+   "attack": "",
+   "health": "",
+   "arcane": "15",
+   "ruleText": "Another target Character ignores Swimming this turn.\n\nAnother target Character Manafloods 15.",
+   "flavor": "",
+   "saga": "Venture",
+   "sagaId": "Venture",
+   "sagaIds": [
+    "Venture"
+   ],
+   "revision": "1.0",
+   "artist": "Midjourney",
+   "designer": "Conjure UCG LLC 2027",
+   "imageUrl": "",
+   "art": "",
+   "cid": "cmwu5uz8bmgxbx84qms1f",
+   "orbs": [
+    {
+     "type": "arcane",
+     "value": "15"
+    },
+    {
+     "type": "range",
+     "value": "E"
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    },
+    {
+     "type": "hidden",
+     "value": ""
+    }
+   ],
+   "lastUpdated": "2026-11-24",
+   "rarity": "common",
+   "range": "E",
+   "rulesSplit": 2,
+   "sections": [
+    {
+     "text": "Another target Character ignores Swimming this turn.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    },
+    {
+     "text": "Another target Character Manafloods 15.",
+     "name": "",
+     "manaCost": "",
+     "superTypes": [],
+     "subTypes": []
+    }
+   ],
+   "splitChoice": true,
+   "choiceText": "Choose 1"
   }
  ],
  "look": null,

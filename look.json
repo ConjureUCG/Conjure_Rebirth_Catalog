@@ -348,6 +348,16 @@
     "shape": "slant",
     "hl": "verdant",
     "w": 3
+   },
+   "Manaflood": {
+    "o": "#1100ff",
+    "oh": "#00ffff",
+    "f": "#1100ff",
+    "fh": "#00ffff",
+    "t": "#ffffff",
+    "shape": "slant",
+    "hl": "platinum",
+    "w": 3
    }
   },
   "pillsOn": true,
@@ -648,6 +658,16 @@
     "matchAlt": "",
     "param": "none",
     "reminder": "Expend — Only use this ability once a Battle.",
+    "reminderBare": ""
+   },
+   {
+    "id": "kwc_cmwu5xdybxdrlf",
+    "name": "Manaflood",
+    "mode": "keyword",
+    "match": "Manaflood",
+    "matchAlt": "Manaflood, Manaflooded, Manafloods, Manaflooding",
+    "param": "number",
+    "reminder": "Manaflood — Gain (Value) MP.",
     "reminderBare": ""
    }
   ],

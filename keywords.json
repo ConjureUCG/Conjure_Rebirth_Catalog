@@ -653,5 +653,59 @@
   "param": "none",
   "__custom": true,
   "__id": "kwc_cmwqlgqjp15zpt"
+ },
+ {
+  "name": "Manaflood",
+  "mode": "keyword",
+  "match": "Manaflood",
+  "reminder": "Manaflood — Gain (Value) MP.",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwu5xdybxdrlf"
+ },
+ {
+  "name": "Manaflood",
+  "mode": "keyword",
+  "match": "Manaflood",
+  "reminder": "Manaflood — Gain (Value) MP.",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwu5xdybxdrlf",
+  "__alias": true
+ },
+ {
+  "name": "Manaflood",
+  "mode": "keyword",
+  "match": "Manaflooded",
+  "reminder": "Manaflood — Gain (Value) MP.",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwu5xdybxdrlf",
+  "__alias": true
+ },
+ {
+  "name": "Manaflood",
+  "mode": "keyword",
+  "match": "Manafloods",
+  "reminder": "Manaflood — Gain (Value) MP.",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwu5xdybxdrlf",
+  "__alias": true
+ },
+ {
+  "name": "Manaflood",
+  "mode": "keyword",
+  "match": "Manaflooding",
+  "reminder": "Manaflood — Gain (Value) MP.",
+  "reminderBare": "",
+  "param": "number",
+  "__custom": true,
+  "__id": "kwc_cmwu5xdybxdrlf",
+  "__alias": true
  }
 ]
